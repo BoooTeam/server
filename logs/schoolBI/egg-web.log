@@ -1,0 +1,1439 @@
+2020-02-17 10:37:52,073 INFO 35256 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 10:37:52,099 INFO 35256 [egg-multipart] stream mode enable
+2020-02-17 10:37:52,387 INFO 35256 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 10:37:52,391 INFO 35256 [egg-security] use csrf middleware
+2020-02-17 10:37:52,392 INFO 35256 [egg-security] use methodnoallow middleware
+2020-02-17 10:37:52,393 INFO 35256 [egg-security] use noopen middleware
+2020-02-17 10:37:52,393 INFO 35256 [egg-security] use nosniff middleware
+2020-02-17 10:37:52,394 INFO 35256 [egg-security] use xssProtection middleware
+2020-02-17 10:37:52,395 INFO 35256 [egg-security] use xframe middleware
+2020-02-17 10:37:52,395 INFO 35256 [egg-security] use dta middleware
+2020-02-17 10:37:52,395 INFO 35256 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 10:37:52,410 INFO 35256 [egg:core] dump config after load, 8ms
+2020-02-17 10:37:52,454 INFO 35256 [egg-watcher:application] watcher start success
+2020-02-17 10:37:52,482 INFO 35256 [egg:core] dump config after ready, 4ms
+2020-02-17 10:42:46,831 INFO 36710 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 10:42:46,867 INFO 36710 [egg-multipart] stream mode enable
+2020-02-17 10:42:47,250 INFO 36710 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 10:42:47,253 INFO 36710 [egg-security] use csrf middleware
+2020-02-17 10:42:47,254 INFO 36710 [egg-security] use methodnoallow middleware
+2020-02-17 10:42:47,254 INFO 36710 [egg-security] use noopen middleware
+2020-02-17 10:42:47,255 INFO 36710 [egg-security] use nosniff middleware
+2020-02-17 10:42:47,256 INFO 36710 [egg-security] use xssProtection middleware
+2020-02-17 10:42:47,257 INFO 36710 [egg-security] use xframe middleware
+2020-02-17 10:42:47,257 INFO 36710 [egg-security] use dta middleware
+2020-02-17 10:42:47,257 INFO 36710 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 10:42:47,269 INFO 36710 [egg:core] dump config after load, 7ms
+2020-02-17 10:42:47,316 INFO 36710 [egg-watcher:application] watcher start success
+2020-02-17 10:42:47,344 INFO 36710 [egg:core] dump config after ready, 4ms
+2020-02-17 10:43:14,110 INFO 36863 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 10:43:14,143 INFO 36863 [egg-multipart] stream mode enable
+2020-02-17 10:43:14,429 INFO 36863 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 10:43:14,432 INFO 36863 [egg-security] use csrf middleware
+2020-02-17 10:43:14,432 INFO 36863 [egg-security] use methodnoallow middleware
+2020-02-17 10:43:14,433 INFO 36863 [egg-security] use noopen middleware
+2020-02-17 10:43:14,433 INFO 36863 [egg-security] use nosniff middleware
+2020-02-17 10:43:14,433 INFO 36863 [egg-security] use xssProtection middleware
+2020-02-17 10:43:14,434 INFO 36863 [egg-security] use xframe middleware
+2020-02-17 10:43:14,434 INFO 36863 [egg-security] use dta middleware
+2020-02-17 10:43:14,434 INFO 36863 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 10:43:14,448 INFO 36863 [egg:core] dump config after load, 8ms
+2020-02-17 10:43:14,495 INFO 36863 [egg-watcher:application] watcher start success
+2020-02-17 10:43:14,522 INFO 36863 [egg:core] dump config after ready, 4ms
+2020-02-17 10:43:29,691 INFO 36966 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 10:43:29,723 INFO 36966 [egg-multipart] stream mode enable
+2020-02-17 10:43:30,011 INFO 36966 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 10:43:30,015 INFO 36966 [egg-security] use csrf middleware
+2020-02-17 10:43:30,015 INFO 36966 [egg-security] use methodnoallow middleware
+2020-02-17 10:43:30,016 INFO 36966 [egg-security] use noopen middleware
+2020-02-17 10:43:30,016 INFO 36966 [egg-security] use nosniff middleware
+2020-02-17 10:43:30,016 INFO 36966 [egg-security] use xssProtection middleware
+2020-02-17 10:43:30,017 INFO 36966 [egg-security] use xframe middleware
+2020-02-17 10:43:30,017 INFO 36966 [egg-security] use dta middleware
+2020-02-17 10:43:30,017 INFO 36966 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 10:43:30,029 INFO 36966 [egg:core] dump config after load, 5ms
+2020-02-17 10:43:30,079 INFO 36966 [egg-watcher:application] watcher start success
+2020-02-17 10:43:30,111 INFO 36966 [egg:core] dump config after ready, 5ms
+2020-02-17 10:43:39,637 INFO 37029 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 10:43:39,663 INFO 37029 [egg-multipart] stream mode enable
+2020-02-17 10:43:39,985 INFO 37029 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 10:43:39,988 INFO 37029 [egg-security] use csrf middleware
+2020-02-17 10:43:39,988 INFO 37029 [egg-security] use methodnoallow middleware
+2020-02-17 10:43:39,989 INFO 37029 [egg-security] use noopen middleware
+2020-02-17 10:43:39,990 INFO 37029 [egg-security] use nosniff middleware
+2020-02-17 10:43:39,990 INFO 37029 [egg-security] use xssProtection middleware
+2020-02-17 10:43:39,990 INFO 37029 [egg-security] use xframe middleware
+2020-02-17 10:43:39,990 INFO 37029 [egg-security] use dta middleware
+2020-02-17 10:43:39,991 INFO 37029 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 10:43:40,001 INFO 37029 [egg:core] dump config after load, 7ms
+2020-02-17 10:43:40,031 INFO 37029 [egg-watcher:application] watcher start success
+2020-02-17 10:43:40,078 INFO 37029 [egg:core] dump config after ready, 4ms
+2020-02-17 10:43:57,128 INFO 37138 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 10:43:57,163 INFO 37138 [egg-multipart] stream mode enable
+2020-02-17 10:43:57,466 INFO 37138 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 10:43:57,469 INFO 37138 [egg-security] use csrf middleware
+2020-02-17 10:43:57,469 INFO 37138 [egg-security] use methodnoallow middleware
+2020-02-17 10:43:57,470 INFO 37138 [egg-security] use noopen middleware
+2020-02-17 10:43:57,470 INFO 37138 [egg-security] use nosniff middleware
+2020-02-17 10:43:57,470 INFO 37138 [egg-security] use xssProtection middleware
+2020-02-17 10:43:57,471 INFO 37138 [egg-security] use xframe middleware
+2020-02-17 10:43:57,471 INFO 37138 [egg-security] use dta middleware
+2020-02-17 10:43:57,471 INFO 37138 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 10:43:57,480 INFO 37138 [egg:core] dump config after load, 5ms
+2020-02-17 10:43:57,529 INFO 37138 [egg-watcher:application] watcher start success
+2020-02-17 10:43:57,557 INFO 37138 [egg:core] dump config after ready, 3ms
+2020-02-17 14:17:46,497 INFO 97867 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:17:46,529 INFO 97867 [egg-multipart] stream mode enable
+2020-02-17 14:17:46,983 INFO 97867 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:17:46,986 INFO 97867 [egg-security] use csrf middleware
+2020-02-17 14:17:46,987 INFO 97867 [egg-security] use methodnoallow middleware
+2020-02-17 14:17:46,988 INFO 97867 [egg-security] use noopen middleware
+2020-02-17 14:17:46,989 INFO 97867 [egg-security] use nosniff middleware
+2020-02-17 14:17:46,990 INFO 97867 [egg-security] use xssProtection middleware
+2020-02-17 14:17:46,990 INFO 97867 [egg-security] use xframe middleware
+2020-02-17 14:17:46,991 INFO 97867 [egg-security] use dta middleware
+2020-02-17 14:17:46,991 INFO 97867 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:17:47,003 INFO 97867 [egg:core] dump config after load, 6ms
+2020-02-17 14:17:47,037 INFO 97867 [egg-watcher:application] watcher start success
+2020-02-17 14:17:47,094 INFO 97867 [egg:core] dump config after ready, 5ms
+2020-02-17 14:18:13,387 INFO 98022 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:18:13,421 INFO 98022 [egg-multipart] stream mode enable
+2020-02-17 14:18:13,863 INFO 98022 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:18:13,865 INFO 98022 [egg-security] use csrf middleware
+2020-02-17 14:18:13,866 INFO 98022 [egg-security] use methodnoallow middleware
+2020-02-17 14:18:13,867 INFO 98022 [egg-security] use noopen middleware
+2020-02-17 14:18:13,868 INFO 98022 [egg-security] use nosniff middleware
+2020-02-17 14:18:13,869 INFO 98022 [egg-security] use xssProtection middleware
+2020-02-17 14:18:13,869 INFO 98022 [egg-security] use xframe middleware
+2020-02-17 14:18:13,870 INFO 98022 [egg-security] use dta middleware
+2020-02-17 14:18:13,870 INFO 98022 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:18:13,881 INFO 98022 [egg:core] dump config after load, 5ms
+2020-02-17 14:18:13,926 INFO 98022 [egg-watcher:application] watcher start success
+2020-02-17 14:18:13,956 INFO 98022 [egg:core] dump config after ready, 4ms
+2020-02-17 14:19:09,240 INFO 98306 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:19:09,275 INFO 98306 [egg-multipart] stream mode enable
+2020-02-17 14:19:09,767 INFO 98306 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:19:09,771 INFO 98306 [egg-security] use csrf middleware
+2020-02-17 14:19:09,772 INFO 98306 [egg-security] use methodnoallow middleware
+2020-02-17 14:19:09,773 INFO 98306 [egg-security] use noopen middleware
+2020-02-17 14:19:09,774 INFO 98306 [egg-security] use nosniff middleware
+2020-02-17 14:19:09,775 INFO 98306 [egg-security] use xssProtection middleware
+2020-02-17 14:19:09,775 INFO 98306 [egg-security] use xframe middleware
+2020-02-17 14:19:09,776 INFO 98306 [egg-security] use dta middleware
+2020-02-17 14:19:09,776 INFO 98306 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:19:09,793 INFO 98306 [egg:core] dump config after load, 8ms
+2020-02-17 14:19:09,826 INFO 98306 [egg-watcher:application] watcher start success
+2020-02-17 14:19:09,877 INFO 98306 [egg:core] dump config after ready, 4ms
+2020-02-17 14:19:35,159 INFO 98444 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:19:35,194 INFO 98444 [egg-multipart] stream mode enable
+2020-02-17 14:19:35,637 INFO 98444 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:19:35,640 INFO 98444 [egg-security] use csrf middleware
+2020-02-17 14:19:35,641 INFO 98444 [egg-security] use methodnoallow middleware
+2020-02-17 14:19:35,641 INFO 98444 [egg-security] use noopen middleware
+2020-02-17 14:19:35,642 INFO 98444 [egg-security] use nosniff middleware
+2020-02-17 14:19:35,643 INFO 98444 [egg-security] use xssProtection middleware
+2020-02-17 14:19:35,643 INFO 98444 [egg-security] use xframe middleware
+2020-02-17 14:19:35,644 INFO 98444 [egg-security] use dta middleware
+2020-02-17 14:19:35,644 INFO 98444 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:19:35,655 INFO 98444 [egg:core] dump config after load, 5ms
+2020-02-17 14:19:35,685 INFO 98444 [egg-watcher:application] watcher start success
+2020-02-17 14:19:35,734 INFO 98444 [egg:core] dump config after ready, 5ms
+2020-02-17 14:23:26,536 INFO 99708 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:23:26,563 INFO 99708 [egg-multipart] stream mode enable
+2020-02-17 14:23:26,866 INFO 99708 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:23:26,869 INFO 99708 [egg-security] use csrf middleware
+2020-02-17 14:23:26,870 INFO 99708 [egg-security] use methodnoallow middleware
+2020-02-17 14:23:26,871 INFO 99708 [egg-security] use noopen middleware
+2020-02-17 14:23:26,872 INFO 99708 [egg-security] use nosniff middleware
+2020-02-17 14:23:26,873 INFO 99708 [egg-security] use xssProtection middleware
+2020-02-17 14:23:26,874 INFO 99708 [egg-security] use xframe middleware
+2020-02-17 14:23:26,874 INFO 99708 [egg-security] use dta middleware
+2020-02-17 14:23:26,874 INFO 99708 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:23:26,885 INFO 99708 [egg:core] dump config after load, 6ms
+2020-02-17 14:23:26,928 INFO 99708 [egg-watcher:application] watcher start success
+2020-02-17 14:23:26,956 INFO 99708 [egg:core] dump config after ready, 5ms
+2020-02-17 14:23:51,379 INFO 99833 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:23:51,417 INFO 99833 [egg-multipart] stream mode enable
+2020-02-17 14:23:51,785 INFO 99833 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:23:51,788 INFO 99833 [egg-security] use csrf middleware
+2020-02-17 14:23:51,789 INFO 99833 [egg-security] use methodnoallow middleware
+2020-02-17 14:23:51,790 INFO 99833 [egg-security] use noopen middleware
+2020-02-17 14:23:51,790 INFO 99833 [egg-security] use nosniff middleware
+2020-02-17 14:23:51,791 INFO 99833 [egg-security] use xssProtection middleware
+2020-02-17 14:23:51,791 INFO 99833 [egg-security] use xframe middleware
+2020-02-17 14:23:51,791 INFO 99833 [egg-security] use dta middleware
+2020-02-17 14:23:51,791 INFO 99833 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:23:51,804 INFO 99833 [egg:core] dump config after load, 7ms
+2020-02-17 14:23:51,869 INFO 99833 [egg-watcher:application] watcher start success
+2020-02-17 14:23:51,902 INFO 99833 [egg:core] dump config after ready, 4ms
+2020-02-17 14:41:41,697 INFO 5216 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:41:41,734 INFO 5216 [egg-multipart] stream mode enable
+2020-02-17 14:41:42,333 INFO 5216 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:41:42,336 INFO 5216 [egg-security] use csrf middleware
+2020-02-17 14:41:42,337 INFO 5216 [egg-security] use methodnoallow middleware
+2020-02-17 14:41:42,338 INFO 5216 [egg-security] use noopen middleware
+2020-02-17 14:41:42,338 INFO 5216 [egg-security] use nosniff middleware
+2020-02-17 14:41:42,340 INFO 5216 [egg-security] use xssProtection middleware
+2020-02-17 14:41:42,341 INFO 5216 [egg-security] use xframe middleware
+2020-02-17 14:41:42,341 INFO 5216 [egg-security] use dta middleware
+2020-02-17 14:41:42,342 INFO 5216 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:41:42,353 INFO 5216 [egg:core] dump config after load, 6ms
+2020-02-17 14:41:42,403 INFO 5216 [egg-watcher:application] watcher start success
+2020-02-17 14:41:42,439 INFO 5216 [egg:core] dump config after ready, 6ms
+2020-02-17 14:43:49,365 INFO 5814 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:43:49,409 INFO 5814 [egg-multipart] stream mode enable
+2020-02-17 14:43:49,777 INFO 5814 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:43:49,779 INFO 5814 [egg-security] use csrf middleware
+2020-02-17 14:43:49,779 INFO 5814 [egg-security] use methodnoallow middleware
+2020-02-17 14:43:49,780 INFO 5814 [egg-security] use noopen middleware
+2020-02-17 14:43:49,780 INFO 5814 [egg-security] use nosniff middleware
+2020-02-17 14:43:49,780 INFO 5814 [egg-security] use xssProtection middleware
+2020-02-17 14:43:49,780 INFO 5814 [egg-security] use xframe middleware
+2020-02-17 14:43:49,781 INFO 5814 [egg-security] use dta middleware
+2020-02-17 14:43:49,781 INFO 5814 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:43:49,790 INFO 5814 [egg:core] dump config after load, 5ms
+2020-02-17 14:43:49,817 INFO 5814 [egg-watcher:application] watcher start success
+2020-02-17 14:43:49,861 INFO 5814 [egg:core] dump config after ready, 5ms
+2020-02-17 14:43:55,643 INFO 5853 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:43:55,667 INFO 5853 [egg-multipart] stream mode enable
+2020-02-17 14:43:55,935 INFO 5853 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:43:55,937 INFO 5853 [egg-security] use csrf middleware
+2020-02-17 14:43:55,938 INFO 5853 [egg-security] use methodnoallow middleware
+2020-02-17 14:43:55,938 INFO 5853 [egg-security] use noopen middleware
+2020-02-17 14:43:55,938 INFO 5853 [egg-security] use nosniff middleware
+2020-02-17 14:43:55,939 INFO 5853 [egg-security] use xssProtection middleware
+2020-02-17 14:43:55,939 INFO 5853 [egg-security] use xframe middleware
+2020-02-17 14:43:55,939 INFO 5853 [egg-security] use dta middleware
+2020-02-17 14:43:55,939 INFO 5853 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:43:55,948 INFO 5853 [egg:core] dump config after load, 5ms
+2020-02-17 14:43:55,977 INFO 5853 [egg-watcher:application] watcher start success
+2020-02-17 14:43:56,015 INFO 5853 [egg:core] dump config after ready, 4ms
+2020-02-17 14:44:00,258 INFO 5881 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:44:00,284 INFO 5881 [egg-multipart] stream mode enable
+2020-02-17 14:44:00,580 INFO 5881 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:44:00,582 INFO 5881 [egg-security] use csrf middleware
+2020-02-17 14:44:00,583 INFO 5881 [egg-security] use methodnoallow middleware
+2020-02-17 14:44:00,583 INFO 5881 [egg-security] use noopen middleware
+2020-02-17 14:44:00,583 INFO 5881 [egg-security] use nosniff middleware
+2020-02-17 14:44:00,584 INFO 5881 [egg-security] use xssProtection middleware
+2020-02-17 14:44:00,584 INFO 5881 [egg-security] use xframe middleware
+2020-02-17 14:44:00,584 INFO 5881 [egg-security] use dta middleware
+2020-02-17 14:44:00,584 INFO 5881 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:44:00,593 INFO 5881 [egg:core] dump config after load, 5ms
+2020-02-17 14:44:00,636 INFO 5881 [egg-watcher:application] watcher start success
+2020-02-17 14:44:00,664 INFO 5881 [egg:core] dump config after ready, 4ms
+2020-02-17 14:44:05,158 INFO 5915 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:44:05,183 INFO 5915 [egg-multipart] stream mode enable
+2020-02-17 14:44:05,462 INFO 5915 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:44:05,464 INFO 5915 [egg-security] use csrf middleware
+2020-02-17 14:44:05,465 INFO 5915 [egg-security] use methodnoallow middleware
+2020-02-17 14:44:05,465 INFO 5915 [egg-security] use noopen middleware
+2020-02-17 14:44:05,465 INFO 5915 [egg-security] use nosniff middleware
+2020-02-17 14:44:05,466 INFO 5915 [egg-security] use xssProtection middleware
+2020-02-17 14:44:05,466 INFO 5915 [egg-security] use xframe middleware
+2020-02-17 14:44:05,466 INFO 5915 [egg-security] use dta middleware
+2020-02-17 14:44:05,466 INFO 5915 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:44:05,482 INFO 5915 [egg:core] dump config after load, 8ms
+2020-02-17 14:44:05,515 INFO 5915 [egg-watcher:application] watcher start success
+2020-02-17 14:44:05,556 INFO 5915 [egg:core] dump config after ready, 4ms
+2020-02-17 14:45:08,651 INFO 6207 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:45:08,678 INFO 6207 [egg-multipart] stream mode enable
+2020-02-17 14:45:08,935 INFO 6207 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:45:08,937 INFO 6207 [egg-security] use csrf middleware
+2020-02-17 14:45:08,938 INFO 6207 [egg-security] use methodnoallow middleware
+2020-02-17 14:45:08,938 INFO 6207 [egg-security] use noopen middleware
+2020-02-17 14:45:08,938 INFO 6207 [egg-security] use nosniff middleware
+2020-02-17 14:45:08,939 INFO 6207 [egg-security] use xssProtection middleware
+2020-02-17 14:45:08,939 INFO 6207 [egg-security] use xframe middleware
+2020-02-17 14:45:08,940 INFO 6207 [egg-security] use dta middleware
+2020-02-17 14:45:08,940 INFO 6207 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:45:08,950 INFO 6207 [egg:core] dump config after load, 6ms
+2020-02-17 14:45:08,983 INFO 6207 [egg-watcher:application] watcher start success
+2020-02-17 14:45:09,027 INFO 6207 [egg:core] dump config after ready, 4ms
+2020-02-17 14:46:33,352 INFO 6605 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:46:33,378 INFO 6605 [egg-multipart] stream mode enable
+2020-02-17 14:46:33,653 INFO 6605 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:46:33,655 INFO 6605 [egg-security] use csrf middleware
+2020-02-17 14:46:33,656 INFO 6605 [egg-security] use methodnoallow middleware
+2020-02-17 14:46:33,656 INFO 6605 [egg-security] use noopen middleware
+2020-02-17 14:46:33,657 INFO 6605 [egg-security] use nosniff middleware
+2020-02-17 14:46:33,657 INFO 6605 [egg-security] use xssProtection middleware
+2020-02-17 14:46:33,657 INFO 6605 [egg-security] use xframe middleware
+2020-02-17 14:46:33,657 INFO 6605 [egg-security] use dta middleware
+2020-02-17 14:46:33,657 INFO 6605 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:46:33,667 INFO 6605 [egg:core] dump config after load, 4ms
+2020-02-17 14:46:33,692 INFO 6605 [egg-watcher:application] watcher start success
+2020-02-17 14:46:33,736 INFO 6605 [egg:core] dump config after ready, 5ms
+2020-02-17 14:46:47,212 INFO 6676 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:46:47,241 INFO 6676 [egg-multipart] stream mode enable
+2020-02-17 14:46:47,508 INFO 6676 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:46:47,510 INFO 6676 [egg-security] use csrf middleware
+2020-02-17 14:46:47,511 INFO 6676 [egg-security] use methodnoallow middleware
+2020-02-17 14:46:47,511 INFO 6676 [egg-security] use noopen middleware
+2020-02-17 14:46:47,512 INFO 6676 [egg-security] use nosniff middleware
+2020-02-17 14:46:47,512 INFO 6676 [egg-security] use xssProtection middleware
+2020-02-17 14:46:47,512 INFO 6676 [egg-security] use xframe middleware
+2020-02-17 14:46:47,512 INFO 6676 [egg-security] use dta middleware
+2020-02-17 14:46:47,512 INFO 6676 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:46:47,522 INFO 6676 [egg:core] dump config after load, 5ms
+2020-02-17 14:46:47,552 INFO 6676 [egg-watcher:application] watcher start success
+2020-02-17 14:46:47,591 INFO 6676 [egg:core] dump config after ready, 4ms
+2020-02-17 14:47:38,344 INFO 6919 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:47:38,373 INFO 6919 [egg-multipart] stream mode enable
+2020-02-17 14:47:38,731 INFO 6919 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:47:38,736 INFO 6919 [egg-security] use csrf middleware
+2020-02-17 14:47:38,737 INFO 6919 [egg-security] use methodnoallow middleware
+2020-02-17 14:47:38,737 INFO 6919 [egg-security] use noopen middleware
+2020-02-17 14:47:38,738 INFO 6919 [egg-security] use nosniff middleware
+2020-02-17 14:47:38,738 INFO 6919 [egg-security] use xssProtection middleware
+2020-02-17 14:47:38,739 INFO 6919 [egg-security] use xframe middleware
+2020-02-17 14:47:38,739 INFO 6919 [egg-security] use dta middleware
+2020-02-17 14:47:38,739 INFO 6919 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:47:38,770 INFO 6919 [egg:core] dump config after load, 10ms
+2020-02-17 14:47:38,831 INFO 6919 [egg-watcher:application] watcher start success
+2020-02-17 14:47:38,894 INFO 6919 [egg:core] dump config after ready, 4ms
+2020-02-17 14:48:39,005 INFO 7225 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:48:39,032 INFO 7225 [egg-multipart] stream mode enable
+2020-02-17 14:48:39,309 INFO 7225 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:48:39,312 INFO 7225 [egg-security] use csrf middleware
+2020-02-17 14:48:39,312 INFO 7225 [egg-security] use methodnoallow middleware
+2020-02-17 14:48:39,313 INFO 7225 [egg-security] use noopen middleware
+2020-02-17 14:48:39,313 INFO 7225 [egg-security] use nosniff middleware
+2020-02-17 14:48:39,314 INFO 7225 [egg-security] use xssProtection middleware
+2020-02-17 14:48:39,314 INFO 7225 [egg-security] use xframe middleware
+2020-02-17 14:48:39,314 INFO 7225 [egg-security] use dta middleware
+2020-02-17 14:48:39,314 INFO 7225 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:48:39,324 INFO 7225 [egg:core] dump config after load, 6ms
+2020-02-17 14:48:39,356 INFO 7225 [egg-watcher:application] watcher start success
+2020-02-17 14:48:39,409 INFO 7225 [egg:core] dump config after ready, 7ms
+2020-02-17 14:50:14,696 INFO 7674 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:50:14,730 INFO 7674 [egg-multipart] stream mode enable
+2020-02-17 14:50:15,023 INFO 7674 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:50:15,025 INFO 7674 [egg-security] use csrf middleware
+2020-02-17 14:50:15,026 INFO 7674 [egg-security] use methodnoallow middleware
+2020-02-17 14:50:15,026 INFO 7674 [egg-security] use noopen middleware
+2020-02-17 14:50:15,027 INFO 7674 [egg-security] use nosniff middleware
+2020-02-17 14:50:15,027 INFO 7674 [egg-security] use xssProtection middleware
+2020-02-17 14:50:15,028 INFO 7674 [egg-security] use xframe middleware
+2020-02-17 14:50:15,028 INFO 7674 [egg-security] use dta middleware
+2020-02-17 14:50:15,028 INFO 7674 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:50:15,043 INFO 7674 [egg:core] dump config after load, 8ms
+2020-02-17 14:50:15,090 INFO 7674 [egg-watcher:application] watcher start success
+2020-02-17 14:50:15,141 INFO 7674 [egg:core] dump config after ready, 5ms
+2020-02-17 14:50:16,436 INFO 7693 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:50:16,463 INFO 7693 [egg-multipart] stream mode enable
+2020-02-17 14:50:16,725 INFO 7693 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:50:16,727 INFO 7693 [egg-security] use csrf middleware
+2020-02-17 14:50:16,728 INFO 7693 [egg-security] use methodnoallow middleware
+2020-02-17 14:50:16,728 INFO 7693 [egg-security] use noopen middleware
+2020-02-17 14:50:16,728 INFO 7693 [egg-security] use nosniff middleware
+2020-02-17 14:50:16,729 INFO 7693 [egg-security] use xssProtection middleware
+2020-02-17 14:50:16,729 INFO 7693 [egg-security] use xframe middleware
+2020-02-17 14:50:16,729 INFO 7693 [egg-security] use dta middleware
+2020-02-17 14:50:16,729 INFO 7693 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:50:16,738 INFO 7693 [egg:core] dump config after load, 5ms
+2020-02-17 14:50:16,769 INFO 7693 [egg-watcher:application] watcher start success
+2020-02-17 14:50:16,809 INFO 7693 [egg:core] dump config after ready, 4ms
+2020-02-17 14:50:29,667 INFO 7759 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:50:29,703 INFO 7759 [egg-multipart] stream mode enable
+2020-02-17 14:50:29,977 INFO 7759 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:50:29,979 INFO 7759 [egg-security] use csrf middleware
+2020-02-17 14:50:29,980 INFO 7759 [egg-security] use methodnoallow middleware
+2020-02-17 14:50:29,980 INFO 7759 [egg-security] use noopen middleware
+2020-02-17 14:50:29,980 INFO 7759 [egg-security] use nosniff middleware
+2020-02-17 14:50:29,981 INFO 7759 [egg-security] use xssProtection middleware
+2020-02-17 14:50:29,981 INFO 7759 [egg-security] use xframe middleware
+2020-02-17 14:50:29,981 INFO 7759 [egg-security] use dta middleware
+2020-02-17 14:50:29,981 INFO 7759 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:50:29,991 INFO 7759 [egg:core] dump config after load, 5ms
+2020-02-17 14:50:30,035 INFO 7759 [egg-watcher:application] watcher start success
+2020-02-17 14:50:30,062 INFO 7759 [egg:core] dump config after ready, 4ms
+2020-02-17 14:50:35,814 INFO 7803 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:50:35,839 INFO 7803 [egg-multipart] stream mode enable
+2020-02-17 14:50:36,089 INFO 7803 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:50:36,091 INFO 7803 [egg-security] use csrf middleware
+2020-02-17 14:50:36,092 INFO 7803 [egg-security] use methodnoallow middleware
+2020-02-17 14:50:36,092 INFO 7803 [egg-security] use noopen middleware
+2020-02-17 14:50:36,092 INFO 7803 [egg-security] use nosniff middleware
+2020-02-17 14:50:36,093 INFO 7803 [egg-security] use xssProtection middleware
+2020-02-17 14:50:36,093 INFO 7803 [egg-security] use xframe middleware
+2020-02-17 14:50:36,093 INFO 7803 [egg-security] use dta middleware
+2020-02-17 14:50:36,093 INFO 7803 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:50:36,103 INFO 7803 [egg:core] dump config after load, 5ms
+2020-02-17 14:50:36,145 INFO 7803 [egg-watcher:application] watcher start success
+2020-02-17 14:50:36,173 INFO 7803 [egg:core] dump config after ready, 4ms
+2020-02-17 14:50:42,500 INFO 7843 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:50:42,541 INFO 7843 [egg-multipart] stream mode enable
+2020-02-17 14:50:42,865 INFO 7843 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:50:42,869 INFO 7843 [egg-security] use csrf middleware
+2020-02-17 14:50:42,870 INFO 7843 [egg-security] use methodnoallow middleware
+2020-02-17 14:50:42,871 INFO 7843 [egg-security] use noopen middleware
+2020-02-17 14:50:42,871 INFO 7843 [egg-security] use nosniff middleware
+2020-02-17 14:50:42,872 INFO 7843 [egg-security] use xssProtection middleware
+2020-02-17 14:50:42,872 INFO 7843 [egg-security] use xframe middleware
+2020-02-17 14:50:42,873 INFO 7843 [egg-security] use dta middleware
+2020-02-17 14:50:42,873 INFO 7843 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:50:42,888 INFO 7843 [egg:core] dump config after load, 9ms
+2020-02-17 14:50:42,929 INFO 7843 [egg-watcher:application] watcher start success
+2020-02-17 14:50:42,984 INFO 7843 [egg:core] dump config after ready, 4ms
+2020-02-17 14:50:47,215 INFO 7869 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:50:47,239 INFO 7869 [egg-multipart] stream mode enable
+2020-02-17 14:50:47,506 INFO 7869 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:50:47,508 INFO 7869 [egg-security] use csrf middleware
+2020-02-17 14:50:47,508 INFO 7869 [egg-security] use methodnoallow middleware
+2020-02-17 14:50:47,509 INFO 7869 [egg-security] use noopen middleware
+2020-02-17 14:50:47,509 INFO 7869 [egg-security] use nosniff middleware
+2020-02-17 14:50:47,509 INFO 7869 [egg-security] use xssProtection middleware
+2020-02-17 14:50:47,510 INFO 7869 [egg-security] use xframe middleware
+2020-02-17 14:50:47,510 INFO 7869 [egg-security] use dta middleware
+2020-02-17 14:50:47,510 INFO 7869 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:50:47,520 INFO 7869 [egg:core] dump config after load, 5ms
+2020-02-17 14:50:47,554 INFO 7869 [egg-watcher:application] watcher start success
+2020-02-17 14:50:47,596 INFO 7869 [egg:core] dump config after ready, 5ms
+2020-02-17 14:51:10,783 INFO 7984 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:51:10,807 INFO 7984 [egg-multipart] stream mode enable
+2020-02-17 14:51:11,061 INFO 7984 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:51:11,063 INFO 7984 [egg-security] use csrf middleware
+2020-02-17 14:51:11,064 INFO 7984 [egg-security] use methodnoallow middleware
+2020-02-17 14:51:11,064 INFO 7984 [egg-security] use noopen middleware
+2020-02-17 14:51:11,064 INFO 7984 [egg-security] use nosniff middleware
+2020-02-17 14:51:11,065 INFO 7984 [egg-security] use xssProtection middleware
+2020-02-17 14:51:11,065 INFO 7984 [egg-security] use xframe middleware
+2020-02-17 14:51:11,065 INFO 7984 [egg-security] use dta middleware
+2020-02-17 14:51:11,065 INFO 7984 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:51:11,074 INFO 7984 [egg:core] dump config after load, 5ms
+2020-02-17 14:51:11,103 INFO 7984 [egg-watcher:application] watcher start success
+2020-02-17 14:51:11,162 INFO 7984 [egg:core] dump config after ready, 5ms
+2020-02-17 14:56:47,030 INFO 9522 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 14:56:47,064 INFO 9522 [egg-multipart] stream mode enable
+2020-02-17 14:56:47,382 INFO 9522 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 14:56:47,384 INFO 9522 [egg-security] use csrf middleware
+2020-02-17 14:56:47,384 INFO 9522 [egg-security] use methodnoallow middleware
+2020-02-17 14:56:47,385 INFO 9522 [egg-security] use noopen middleware
+2020-02-17 14:56:47,385 INFO 9522 [egg-security] use nosniff middleware
+2020-02-17 14:56:47,385 INFO 9522 [egg-security] use xssProtection middleware
+2020-02-17 14:56:47,386 INFO 9522 [egg-security] use xframe middleware
+2020-02-17 14:56:47,386 INFO 9522 [egg-security] use dta middleware
+2020-02-17 14:56:47,386 INFO 9522 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 14:56:47,396 INFO 9522 [egg:core] dump config after load, 6ms
+2020-02-17 14:56:47,443 INFO 9522 [egg-watcher:application] watcher start success
+2020-02-17 14:56:47,472 INFO 9522 [egg:core] dump config after ready, 4ms
+2020-02-17 15:06:34,793 INFO 12222 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:06:34,823 INFO 12222 [egg-multipart] stream mode enable
+2020-02-17 15:06:35,266 INFO 12222 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:06:35,269 INFO 12222 [egg-security] use csrf middleware
+2020-02-17 15:06:35,270 INFO 12222 [egg-security] use methodnoallow middleware
+2020-02-17 15:06:35,270 INFO 12222 [egg-security] use noopen middleware
+2020-02-17 15:06:35,271 INFO 12222 [egg-security] use nosniff middleware
+2020-02-17 15:06:35,272 INFO 12222 [egg-security] use xssProtection middleware
+2020-02-17 15:06:35,273 INFO 12222 [egg-security] use xframe middleware
+2020-02-17 15:06:35,273 INFO 12222 [egg-security] use dta middleware
+2020-02-17 15:06:35,273 INFO 12222 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:06:35,286 INFO 12222 [egg:core] dump config after load, 6ms
+2020-02-17 15:06:35,316 INFO 12222 [egg-watcher:application] watcher start success
+2020-02-17 15:06:35,363 INFO 12222 [egg:core] dump config after ready, 4ms
+2020-02-17 15:06:53,765 INFO 12325 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:06:53,788 INFO 12325 [egg-multipart] stream mode enable
+2020-02-17 15:06:54,094 INFO 12325 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:06:54,098 INFO 12325 [egg-security] use csrf middleware
+2020-02-17 15:06:54,098 INFO 12325 [egg-security] use methodnoallow middleware
+2020-02-17 15:06:54,099 INFO 12325 [egg-security] use noopen middleware
+2020-02-17 15:06:54,099 INFO 12325 [egg-security] use nosniff middleware
+2020-02-17 15:06:54,100 INFO 12325 [egg-security] use xssProtection middleware
+2020-02-17 15:06:54,100 INFO 12325 [egg-security] use xframe middleware
+2020-02-17 15:06:54,100 INFO 12325 [egg-security] use dta middleware
+2020-02-17 15:06:54,100 INFO 12325 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:06:54,112 INFO 12325 [egg:core] dump config after load, 6ms
+2020-02-17 15:06:54,150 INFO 12325 [egg-watcher:application] watcher start success
+2020-02-17 15:06:54,188 INFO 12325 [egg:core] dump config after ready, 4ms
+2020-02-17 15:54:34,687 INFO 25448 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:54:34,723 INFO 25448 [egg-multipart] stream mode enable
+2020-02-17 15:54:35,186 INFO 25448 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:54:35,189 INFO 25448 [egg-security] use csrf middleware
+2020-02-17 15:54:35,190 INFO 25448 [egg-security] use methodnoallow middleware
+2020-02-17 15:54:35,191 INFO 25448 [egg-security] use noopen middleware
+2020-02-17 15:54:35,192 INFO 25448 [egg-security] use nosniff middleware
+2020-02-17 15:54:35,192 INFO 25448 [egg-security] use xssProtection middleware
+2020-02-17 15:54:35,193 INFO 25448 [egg-security] use xframe middleware
+2020-02-17 15:54:35,194 INFO 25448 [egg-security] use dta middleware
+2020-02-17 15:54:35,194 INFO 25448 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:54:35,204 INFO 25448 [egg:core] dump config after load, 5ms
+2020-02-17 15:54:35,258 INFO 25448 [egg-watcher:application] watcher start success
+2020-02-17 15:54:35,293 INFO 25448 [egg:core] dump config after ready, 5ms
+2020-02-17 15:54:49,460 INFO 25531 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:54:49,495 INFO 25531 [egg-multipart] stream mode enable
+2020-02-17 15:54:49,974 INFO 25531 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:54:49,976 INFO 25531 [egg-security] use csrf middleware
+2020-02-17 15:54:49,977 INFO 25531 [egg-security] use methodnoallow middleware
+2020-02-17 15:54:49,978 INFO 25531 [egg-security] use noopen middleware
+2020-02-17 15:54:49,979 INFO 25531 [egg-security] use nosniff middleware
+2020-02-17 15:54:49,979 INFO 25531 [egg-security] use xssProtection middleware
+2020-02-17 15:54:49,980 INFO 25531 [egg-security] use xframe middleware
+2020-02-17 15:54:49,981 INFO 25531 [egg-security] use dta middleware
+2020-02-17 15:54:49,981 INFO 25531 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:54:49,993 INFO 25531 [egg:core] dump config after load, 5ms
+2020-02-17 15:54:50,019 INFO 25531 [egg-watcher:application] watcher start success
+2020-02-17 15:54:50,064 INFO 25531 [egg:core] dump config after ready, 4ms
+2020-02-17 15:55:27,536 INFO 25718 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:55:27,566 INFO 25718 [egg-multipart] stream mode enable
+2020-02-17 15:55:28,013 INFO 25718 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:55:28,016 INFO 25718 [egg-security] use csrf middleware
+2020-02-17 15:55:28,017 INFO 25718 [egg-security] use methodnoallow middleware
+2020-02-17 15:55:28,018 INFO 25718 [egg-security] use noopen middleware
+2020-02-17 15:55:28,018 INFO 25718 [egg-security] use nosniff middleware
+2020-02-17 15:55:28,019 INFO 25718 [egg-security] use xssProtection middleware
+2020-02-17 15:55:28,020 INFO 25718 [egg-security] use xframe middleware
+2020-02-17 15:55:28,021 INFO 25718 [egg-security] use dta middleware
+2020-02-17 15:55:28,021 INFO 25718 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:55:28,032 INFO 25718 [egg:core] dump config after load, 6ms
+2020-02-17 15:55:28,064 INFO 25718 [egg-watcher:application] watcher start success
+2020-02-17 15:55:28,113 INFO 25718 [egg:core] dump config after ready, 4ms
+2020-02-17 15:55:33,580 INFO 25756 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:55:33,616 INFO 25756 [egg-multipart] stream mode enable
+2020-02-17 15:55:33,969 INFO 25756 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:55:33,972 INFO 25756 [egg-security] use csrf middleware
+2020-02-17 15:55:33,973 INFO 25756 [egg-security] use methodnoallow middleware
+2020-02-17 15:55:33,974 INFO 25756 [egg-security] use noopen middleware
+2020-02-17 15:55:33,975 INFO 25756 [egg-security] use nosniff middleware
+2020-02-17 15:55:33,976 INFO 25756 [egg-security] use xssProtection middleware
+2020-02-17 15:55:33,976 INFO 25756 [egg-security] use xframe middleware
+2020-02-17 15:55:33,977 INFO 25756 [egg-security] use dta middleware
+2020-02-17 15:55:33,977 INFO 25756 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:55:33,992 INFO 25756 [egg:core] dump config after load, 7ms
+2020-02-17 15:55:34,029 INFO 25756 [egg-watcher:application] watcher start success
+2020-02-17 15:55:34,086 INFO 25756 [egg:core] dump config after ready, 5ms
+2020-02-17 15:56:08,277 INFO 25927 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:56:08,337 INFO 25927 [egg-multipart] stream mode enable
+2020-02-17 15:56:08,794 INFO 25927 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:56:08,797 INFO 25927 [egg-security] use csrf middleware
+2020-02-17 15:56:08,798 INFO 25927 [egg-security] use methodnoallow middleware
+2020-02-17 15:56:08,798 INFO 25927 [egg-security] use noopen middleware
+2020-02-17 15:56:08,798 INFO 25927 [egg-security] use nosniff middleware
+2020-02-17 15:56:08,799 INFO 25927 [egg-security] use xssProtection middleware
+2020-02-17 15:56:08,799 INFO 25927 [egg-security] use xframe middleware
+2020-02-17 15:56:08,799 INFO 25927 [egg-security] use dta middleware
+2020-02-17 15:56:08,799 INFO 25927 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:56:08,813 INFO 25927 [egg:core] dump config after load, 8ms
+2020-02-17 15:56:08,847 INFO 25927 [egg-watcher:application] watcher start success
+2020-02-17 15:56:08,890 INFO 25927 [egg:core] dump config after ready, 4ms
+2020-02-17 15:57:04,890 INFO 26199 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:57:04,921 INFO 26199 [egg-multipart] stream mode enable
+2020-02-17 15:57:05,221 INFO 26199 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:57:05,225 INFO 26199 [egg-security] use csrf middleware
+2020-02-17 15:57:05,225 INFO 26199 [egg-security] use methodnoallow middleware
+2020-02-17 15:57:05,226 INFO 26199 [egg-security] use noopen middleware
+2020-02-17 15:57:05,226 INFO 26199 [egg-security] use nosniff middleware
+2020-02-17 15:57:05,226 INFO 26199 [egg-security] use xssProtection middleware
+2020-02-17 15:57:05,227 INFO 26199 [egg-security] use xframe middleware
+2020-02-17 15:57:05,227 INFO 26199 [egg-security] use dta middleware
+2020-02-17 15:57:05,227 INFO 26199 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:57:05,242 INFO 26199 [egg:core] dump config after load, 9ms
+2020-02-17 15:57:05,280 INFO 26199 [egg-watcher:application] watcher start success
+2020-02-17 15:57:05,324 INFO 26199 [egg:core] dump config after ready, 4ms
+2020-02-17 15:57:08,234 INFO 26216 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:57:08,260 INFO 26216 [egg-multipart] stream mode enable
+2020-02-17 15:57:08,531 INFO 26216 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:57:08,533 INFO 26216 [egg-security] use csrf middleware
+2020-02-17 15:57:08,534 INFO 26216 [egg-security] use methodnoallow middleware
+2020-02-17 15:57:08,535 INFO 26216 [egg-security] use noopen middleware
+2020-02-17 15:57:08,535 INFO 26216 [egg-security] use nosniff middleware
+2020-02-17 15:57:08,535 INFO 26216 [egg-security] use xssProtection middleware
+2020-02-17 15:57:08,536 INFO 26216 [egg-security] use xframe middleware
+2020-02-17 15:57:08,536 INFO 26216 [egg-security] use dta middleware
+2020-02-17 15:57:08,536 INFO 26216 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:57:08,545 INFO 26216 [egg:core] dump config after load, 5ms
+2020-02-17 15:57:08,578 INFO 26216 [egg-watcher:application] watcher start success
+2020-02-17 15:57:08,620 INFO 26216 [egg:core] dump config after ready, 4ms
+2020-02-17 15:57:11,217 INFO 26241 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:57:11,245 INFO 26241 [egg-multipart] stream mode enable
+2020-02-17 15:57:11,632 INFO 26241 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:57:11,635 INFO 26241 [egg-security] use csrf middleware
+2020-02-17 15:57:11,635 INFO 26241 [egg-security] use methodnoallow middleware
+2020-02-17 15:57:11,636 INFO 26241 [egg-security] use noopen middleware
+2020-02-17 15:57:11,636 INFO 26241 [egg-security] use nosniff middleware
+2020-02-17 15:57:11,636 INFO 26241 [egg-security] use xssProtection middleware
+2020-02-17 15:57:11,637 INFO 26241 [egg-security] use xframe middleware
+2020-02-17 15:57:11,637 INFO 26241 [egg-security] use dta middleware
+2020-02-17 15:57:11,637 INFO 26241 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:57:11,647 INFO 26241 [egg:core] dump config after load, 5ms
+2020-02-17 15:57:11,681 INFO 26241 [egg-watcher:application] watcher start success
+2020-02-17 15:57:11,726 INFO 26241 [egg:core] dump config after ready, 4ms
+2020-02-17 15:58:18,004 INFO 26547 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:58:18,038 INFO 26547 [egg-multipart] stream mode enable
+2020-02-17 15:58:18,363 INFO 26547 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:58:18,366 INFO 26547 [egg-security] use csrf middleware
+2020-02-17 15:58:18,366 INFO 26547 [egg-security] use methodnoallow middleware
+2020-02-17 15:58:18,367 INFO 26547 [egg-security] use noopen middleware
+2020-02-17 15:58:18,367 INFO 26547 [egg-security] use nosniff middleware
+2020-02-17 15:58:18,368 INFO 26547 [egg-security] use xssProtection middleware
+2020-02-17 15:58:18,368 INFO 26547 [egg-security] use xframe middleware
+2020-02-17 15:58:18,368 INFO 26547 [egg-security] use dta middleware
+2020-02-17 15:58:18,368 INFO 26547 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:58:18,382 INFO 26547 [egg:core] dump config after load, 6ms
+2020-02-17 15:58:18,420 INFO 26547 [egg-watcher:application] watcher start success
+2020-02-17 15:58:18,461 INFO 26547 [egg:core] dump config after ready, 4ms
+2020-02-17 15:58:31,284 INFO 26628 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:58:31,310 INFO 26628 [egg-multipart] stream mode enable
+2020-02-17 15:58:31,583 INFO 26628 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:58:31,586 INFO 26628 [egg-security] use csrf middleware
+2020-02-17 15:58:31,587 INFO 26628 [egg-security] use methodnoallow middleware
+2020-02-17 15:58:31,587 INFO 26628 [egg-security] use noopen middleware
+2020-02-17 15:58:31,588 INFO 26628 [egg-security] use nosniff middleware
+2020-02-17 15:58:31,588 INFO 26628 [egg-security] use xssProtection middleware
+2020-02-17 15:58:31,588 INFO 26628 [egg-security] use xframe middleware
+2020-02-17 15:58:31,589 INFO 26628 [egg-security] use dta middleware
+2020-02-17 15:58:31,589 INFO 26628 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:58:31,599 INFO 26628 [egg:core] dump config after load, 6ms
+2020-02-17 15:58:31,632 INFO 26628 [egg-watcher:application] watcher start success
+2020-02-17 15:58:31,677 INFO 26628 [egg:core] dump config after ready, 5ms
+2020-02-17 15:58:36,795 INFO 26662 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:58:36,824 INFO 26662 [egg-multipart] stream mode enable
+2020-02-17 15:58:37,131 INFO 26662 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:58:37,134 INFO 26662 [egg-security] use csrf middleware
+2020-02-17 15:58:37,134 INFO 26662 [egg-security] use methodnoallow middleware
+2020-02-17 15:58:37,135 INFO 26662 [egg-security] use noopen middleware
+2020-02-17 15:58:37,135 INFO 26662 [egg-security] use nosniff middleware
+2020-02-17 15:58:37,136 INFO 26662 [egg-security] use xssProtection middleware
+2020-02-17 15:58:37,136 INFO 26662 [egg-security] use xframe middleware
+2020-02-17 15:58:37,137 INFO 26662 [egg-security] use dta middleware
+2020-02-17 15:58:37,137 INFO 26662 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:58:37,147 INFO 26662 [egg:core] dump config after load, 6ms
+2020-02-17 15:58:37,186 INFO 26662 [egg-watcher:application] watcher start success
+2020-02-17 15:58:37,246 INFO 26662 [egg:core] dump config after ready, 6ms
+2020-02-17 15:58:39,064 INFO 26684 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:58:39,089 INFO 26684 [egg-multipart] stream mode enable
+2020-02-17 15:58:39,360 INFO 26684 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:58:39,362 INFO 26684 [egg-security] use csrf middleware
+2020-02-17 15:58:39,362 INFO 26684 [egg-security] use methodnoallow middleware
+2020-02-17 15:58:39,363 INFO 26684 [egg-security] use noopen middleware
+2020-02-17 15:58:39,363 INFO 26684 [egg-security] use nosniff middleware
+2020-02-17 15:58:39,363 INFO 26684 [egg-security] use xssProtection middleware
+2020-02-17 15:58:39,364 INFO 26684 [egg-security] use xframe middleware
+2020-02-17 15:58:39,364 INFO 26684 [egg-security] use dta middleware
+2020-02-17 15:58:39,364 INFO 26684 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:58:39,373 INFO 26684 [egg:core] dump config after load, 5ms
+2020-02-17 15:58:39,408 INFO 26684 [egg-watcher:application] watcher start success
+2020-02-17 15:58:39,465 INFO 26684 [egg:core] dump config after ready, 8ms
+2020-02-17 15:59:11,226 INFO 26838 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:59:11,270 INFO 26838 [egg-multipart] stream mode enable
+2020-02-17 15:59:11,578 INFO 26838 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:59:11,581 INFO 26838 [egg-security] use csrf middleware
+2020-02-17 15:59:11,581 INFO 26838 [egg-security] use methodnoallow middleware
+2020-02-17 15:59:11,581 INFO 26838 [egg-security] use noopen middleware
+2020-02-17 15:59:11,582 INFO 26838 [egg-security] use nosniff middleware
+2020-02-17 15:59:11,582 INFO 26838 [egg-security] use xssProtection middleware
+2020-02-17 15:59:11,582 INFO 26838 [egg-security] use xframe middleware
+2020-02-17 15:59:11,583 INFO 26838 [egg-security] use dta middleware
+2020-02-17 15:59:11,583 INFO 26838 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:59:11,592 INFO 26838 [egg:core] dump config after load, 6ms
+2020-02-17 15:59:11,623 INFO 26838 [egg-watcher:application] watcher start success
+2020-02-17 15:59:11,674 INFO 26838 [egg:core] dump config after ready, 4ms
+2020-02-17 15:59:56,011 INFO 27058 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:59:56,039 INFO 27058 [egg-multipart] stream mode enable
+2020-02-17 15:59:56,384 INFO 27058 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:59:56,387 INFO 27058 [egg-security] use csrf middleware
+2020-02-17 15:59:56,388 INFO 27058 [egg-security] use methodnoallow middleware
+2020-02-17 15:59:56,389 INFO 27058 [egg-security] use noopen middleware
+2020-02-17 15:59:56,389 INFO 27058 [egg-security] use nosniff middleware
+2020-02-17 15:59:56,390 INFO 27058 [egg-security] use xssProtection middleware
+2020-02-17 15:59:56,390 INFO 27058 [egg-security] use xframe middleware
+2020-02-17 15:59:56,391 INFO 27058 [egg-security] use dta middleware
+2020-02-17 15:59:56,391 INFO 27058 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:59:56,403 INFO 27058 [egg:core] dump config after load, 6ms
+2020-02-17 15:59:56,439 INFO 27058 [egg-watcher:application] watcher start success
+2020-02-17 15:59:56,490 INFO 27058 [egg:core] dump config after ready, 4ms
+2020-02-17 15:59:59,171 INFO 27080 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 15:59:59,198 INFO 27080 [egg-multipart] stream mode enable
+2020-02-17 15:59:59,545 INFO 27080 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 15:59:59,548 INFO 27080 [egg-security] use csrf middleware
+2020-02-17 15:59:59,549 INFO 27080 [egg-security] use methodnoallow middleware
+2020-02-17 15:59:59,549 INFO 27080 [egg-security] use noopen middleware
+2020-02-17 15:59:59,550 INFO 27080 [egg-security] use nosniff middleware
+2020-02-17 15:59:59,551 INFO 27080 [egg-security] use xssProtection middleware
+2020-02-17 15:59:59,551 INFO 27080 [egg-security] use xframe middleware
+2020-02-17 15:59:59,552 INFO 27080 [egg-security] use dta middleware
+2020-02-17 15:59:59,552 INFO 27080 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 15:59:59,568 INFO 27080 [egg:core] dump config after load, 10ms
+2020-02-17 15:59:59,613 INFO 27080 [egg-watcher:application] watcher start success
+2020-02-17 15:59:59,670 INFO 27080 [egg:core] dump config after ready, 5ms
+2020-02-17 16:01:11,667 INFO 27415 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:01:11,694 INFO 27415 [egg-multipart] stream mode enable
+2020-02-17 16:01:11,968 INFO 27415 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:01:11,970 INFO 27415 [egg-security] use csrf middleware
+2020-02-17 16:01:11,971 INFO 27415 [egg-security] use methodnoallow middleware
+2020-02-17 16:01:11,971 INFO 27415 [egg-security] use noopen middleware
+2020-02-17 16:01:11,971 INFO 27415 [egg-security] use nosniff middleware
+2020-02-17 16:01:11,972 INFO 27415 [egg-security] use xssProtection middleware
+2020-02-17 16:01:11,972 INFO 27415 [egg-security] use xframe middleware
+2020-02-17 16:01:11,972 INFO 27415 [egg-security] use dta middleware
+2020-02-17 16:01:11,972 INFO 27415 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:01:11,981 INFO 27415 [egg:core] dump config after load, 5ms
+2020-02-17 16:01:12,012 INFO 27415 [egg-watcher:application] watcher start success
+2020-02-17 16:01:12,051 INFO 27415 [egg:core] dump config after ready, 4ms
+2020-02-17 16:01:14,997 INFO 27432 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:01:15,024 INFO 27432 [egg-multipart] stream mode enable
+2020-02-17 16:01:15,356 INFO 27432 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:01:15,359 INFO 27432 [egg-security] use csrf middleware
+2020-02-17 16:01:15,360 INFO 27432 [egg-security] use methodnoallow middleware
+2020-02-17 16:01:15,360 INFO 27432 [egg-security] use noopen middleware
+2020-02-17 16:01:15,360 INFO 27432 [egg-security] use nosniff middleware
+2020-02-17 16:01:15,361 INFO 27432 [egg-security] use xssProtection middleware
+2020-02-17 16:01:15,361 INFO 27432 [egg-security] use xframe middleware
+2020-02-17 16:01:15,361 INFO 27432 [egg-security] use dta middleware
+2020-02-17 16:01:15,361 INFO 27432 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:01:15,373 INFO 27432 [egg:core] dump config after load, 7ms
+2020-02-17 16:01:15,409 INFO 27432 [egg-watcher:application] watcher start success
+2020-02-17 16:01:15,455 INFO 27432 [egg:core] dump config after ready, 4ms
+2020-02-17 16:06:53,609 INFO 28964 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:06:53,633 INFO 28964 [egg-multipart] stream mode enable
+2020-02-17 16:06:53,909 INFO 28964 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:06:53,913 INFO 28964 [egg-security] use csrf middleware
+2020-02-17 16:06:53,914 INFO 28964 [egg-security] use methodnoallow middleware
+2020-02-17 16:06:53,914 INFO 28964 [egg-security] use noopen middleware
+2020-02-17 16:06:53,915 INFO 28964 [egg-security] use nosniff middleware
+2020-02-17 16:06:53,915 INFO 28964 [egg-security] use xssProtection middleware
+2020-02-17 16:06:53,916 INFO 28964 [egg-security] use xframe middleware
+2020-02-17 16:06:53,916 INFO 28964 [egg-security] use dta middleware
+2020-02-17 16:06:53,916 INFO 28964 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:06:53,931 INFO 28964 [egg:core] dump config after load, 8ms
+2020-02-17 16:06:53,970 INFO 28964 [egg-watcher:application] watcher start success
+2020-02-17 16:06:54,023 INFO 28964 [egg:core] dump config after ready, 4ms
+2020-02-17 16:07:06,257 INFO 29040 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:07:06,289 INFO 29040 [egg-multipart] stream mode enable
+2020-02-17 16:07:06,627 INFO 29040 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:07:06,629 INFO 29040 [egg-security] use csrf middleware
+2020-02-17 16:07:06,629 INFO 29040 [egg-security] use methodnoallow middleware
+2020-02-17 16:07:06,630 INFO 29040 [egg-security] use noopen middleware
+2020-02-17 16:07:06,630 INFO 29040 [egg-security] use nosniff middleware
+2020-02-17 16:07:06,630 INFO 29040 [egg-security] use xssProtection middleware
+2020-02-17 16:07:06,631 INFO 29040 [egg-security] use xframe middleware
+2020-02-17 16:07:06,631 INFO 29040 [egg-security] use dta middleware
+2020-02-17 16:07:06,631 INFO 29040 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:07:06,640 INFO 29040 [egg:core] dump config after load, 5ms
+2020-02-17 16:07:06,684 INFO 29040 [egg-watcher:application] watcher start success
+2020-02-17 16:07:06,713 INFO 29040 [egg:core] dump config after ready, 4ms
+2020-02-17 16:07:46,681 INFO 29235 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:07:46,710 INFO 29235 [egg-multipart] stream mode enable
+2020-02-17 16:07:47,027 INFO 29235 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:07:47,029 INFO 29235 [egg-security] use csrf middleware
+2020-02-17 16:07:47,029 INFO 29235 [egg-security] use methodnoallow middleware
+2020-02-17 16:07:47,030 INFO 29235 [egg-security] use noopen middleware
+2020-02-17 16:07:47,030 INFO 29235 [egg-security] use nosniff middleware
+2020-02-17 16:07:47,030 INFO 29235 [egg-security] use xssProtection middleware
+2020-02-17 16:07:47,030 INFO 29235 [egg-security] use xframe middleware
+2020-02-17 16:07:47,031 INFO 29235 [egg-security] use dta middleware
+2020-02-17 16:07:47,031 INFO 29235 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:07:47,040 INFO 29235 [egg:core] dump config after load, 5ms
+2020-02-17 16:07:47,071 INFO 29235 [egg-watcher:application] watcher start success
+2020-02-17 16:07:47,112 INFO 29235 [egg:core] dump config after ready, 4ms
+2020-02-17 16:11:17,133 INFO 30199 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:11:17,163 INFO 30199 [egg-multipart] stream mode enable
+2020-02-17 16:11:17,599 INFO 30199 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:11:17,601 INFO 30199 [egg-security] use csrf middleware
+2020-02-17 16:11:17,603 INFO 30199 [egg-security] use methodnoallow middleware
+2020-02-17 16:11:17,603 INFO 30199 [egg-security] use noopen middleware
+2020-02-17 16:11:17,604 INFO 30199 [egg-security] use nosniff middleware
+2020-02-17 16:11:17,605 INFO 30199 [egg-security] use xssProtection middleware
+2020-02-17 16:11:17,606 INFO 30199 [egg-security] use xframe middleware
+2020-02-17 16:11:17,606 INFO 30199 [egg-security] use dta middleware
+2020-02-17 16:11:17,606 INFO 30199 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:11:17,618 INFO 30199 [egg:core] dump config after load, 5ms
+2020-02-17 16:11:17,648 INFO 30199 [egg-watcher:application] watcher start success
+2020-02-17 16:11:17,692 INFO 30199 [egg:core] dump config after ready, 4ms
+2020-02-17 16:12:03,856 INFO 30423 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:12:03,886 INFO 30423 [egg-multipart] stream mode enable
+2020-02-17 16:12:04,316 INFO 30423 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:12:04,319 INFO 30423 [egg-security] use csrf middleware
+2020-02-17 16:12:04,320 INFO 30423 [egg-security] use methodnoallow middleware
+2020-02-17 16:12:04,321 INFO 30423 [egg-security] use noopen middleware
+2020-02-17 16:12:04,322 INFO 30423 [egg-security] use nosniff middleware
+2020-02-17 16:12:04,322 INFO 30423 [egg-security] use xssProtection middleware
+2020-02-17 16:12:04,323 INFO 30423 [egg-security] use xframe middleware
+2020-02-17 16:12:04,324 INFO 30423 [egg-security] use dta middleware
+2020-02-17 16:12:04,324 INFO 30423 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:12:04,335 INFO 30423 [egg:core] dump config after load, 5ms
+2020-02-17 16:12:04,363 INFO 30423 [egg-watcher:application] watcher start success
+2020-02-17 16:12:04,410 INFO 30423 [egg:core] dump config after ready, 5ms
+2020-02-17 16:12:34,074 INFO 30575 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:12:34,103 INFO 30575 [egg-multipart] stream mode enable
+2020-02-17 16:12:34,529 INFO 30575 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:12:34,532 INFO 30575 [egg-security] use csrf middleware
+2020-02-17 16:12:34,533 INFO 30575 [egg-security] use methodnoallow middleware
+2020-02-17 16:12:34,534 INFO 30575 [egg-security] use noopen middleware
+2020-02-17 16:12:34,535 INFO 30575 [egg-security] use nosniff middleware
+2020-02-17 16:12:34,535 INFO 30575 [egg-security] use xssProtection middleware
+2020-02-17 16:12:34,536 INFO 30575 [egg-security] use xframe middleware
+2020-02-17 16:12:34,537 INFO 30575 [egg-security] use dta middleware
+2020-02-17 16:12:34,537 INFO 30575 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:12:34,550 INFO 30575 [egg:core] dump config after load, 7ms
+2020-02-17 16:12:34,594 INFO 30575 [egg-watcher:application] watcher start success
+2020-02-17 16:12:34,624 INFO 30575 [egg:core] dump config after ready, 3ms
+2020-02-17 16:12:43,116 INFO 30631 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:12:43,141 INFO 30631 [egg-multipart] stream mode enable
+2020-02-17 16:12:43,462 INFO 30631 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:12:43,465 INFO 30631 [egg-security] use csrf middleware
+2020-02-17 16:12:43,466 INFO 30631 [egg-security] use methodnoallow middleware
+2020-02-17 16:12:43,466 INFO 30631 [egg-security] use noopen middleware
+2020-02-17 16:12:43,467 INFO 30631 [egg-security] use nosniff middleware
+2020-02-17 16:12:43,468 INFO 30631 [egg-security] use xssProtection middleware
+2020-02-17 16:12:43,468 INFO 30631 [egg-security] use xframe middleware
+2020-02-17 16:12:43,469 INFO 30631 [egg-security] use dta middleware
+2020-02-17 16:12:43,469 INFO 30631 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:12:43,482 INFO 30631 [egg:core] dump config after load, 6ms
+2020-02-17 16:12:43,534 INFO 30631 [egg-watcher:application] watcher start success
+2020-02-17 16:12:43,563 INFO 30631 [egg:core] dump config after ready, 5ms
+2020-02-17 16:12:45,858 INFO 30651 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:12:45,884 INFO 30651 [egg-multipart] stream mode enable
+2020-02-17 16:12:46,196 INFO 30651 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:12:46,199 INFO 30651 [egg-security] use csrf middleware
+2020-02-17 16:12:46,200 INFO 30651 [egg-security] use methodnoallow middleware
+2020-02-17 16:12:46,200 INFO 30651 [egg-security] use noopen middleware
+2020-02-17 16:12:46,201 INFO 30651 [egg-security] use nosniff middleware
+2020-02-17 16:12:46,202 INFO 30651 [egg-security] use xssProtection middleware
+2020-02-17 16:12:46,202 INFO 30651 [egg-security] use xframe middleware
+2020-02-17 16:12:46,203 INFO 30651 [egg-security] use dta middleware
+2020-02-17 16:12:46,203 INFO 30651 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:12:46,218 INFO 30651 [egg:core] dump config after load, 9ms
+2020-02-17 16:12:46,259 INFO 30651 [egg-watcher:application] watcher start success
+2020-02-17 16:12:46,305 INFO 30651 [egg:core] dump config after ready, 3ms
+2020-02-17 16:19:46,911 INFO 32557 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:19:46,944 INFO 32557 [egg-multipart] stream mode enable
+2020-02-17 16:19:47,490 INFO 32557 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:19:47,493 INFO 32557 [egg-security] use csrf middleware
+2020-02-17 16:19:47,494 INFO 32557 [egg-security] use methodnoallow middleware
+2020-02-17 16:19:47,495 INFO 32557 [egg-security] use noopen middleware
+2020-02-17 16:19:47,497 INFO 32557 [egg-security] use nosniff middleware
+2020-02-17 16:19:47,498 INFO 32557 [egg-security] use xssProtection middleware
+2020-02-17 16:19:47,498 INFO 32557 [egg-security] use xframe middleware
+2020-02-17 16:19:47,499 INFO 32557 [egg-security] use dta middleware
+2020-02-17 16:19:47,499 INFO 32557 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:19:47,518 INFO 32557 [egg:core] dump config after load, 9ms
+2020-02-17 16:19:47,558 INFO 32557 [egg-watcher:application] watcher start success
+2020-02-17 16:19:47,621 INFO 32557 [egg:core] dump config after ready, 6ms
+2020-02-17 16:23:08,068 INFO 33488 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:23:08,098 INFO 33488 [egg-multipart] stream mode enable
+2020-02-17 16:23:08,565 INFO 33488 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:23:08,569 INFO 33488 [egg-security] use csrf middleware
+2020-02-17 16:23:08,570 INFO 33488 [egg-security] use methodnoallow middleware
+2020-02-17 16:23:08,570 INFO 33488 [egg-security] use noopen middleware
+2020-02-17 16:23:08,571 INFO 33488 [egg-security] use nosniff middleware
+2020-02-17 16:23:08,572 INFO 33488 [egg-security] use xssProtection middleware
+2020-02-17 16:23:08,572 INFO 33488 [egg-security] use xframe middleware
+2020-02-17 16:23:08,573 INFO 33488 [egg-security] use dta middleware
+2020-02-17 16:23:08,573 INFO 33488 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:23:08,587 INFO 33488 [egg:core] dump config after load, 6ms
+2020-02-17 16:23:08,620 INFO 33488 [egg-watcher:application] watcher start success
+2020-02-17 16:23:08,682 INFO 33488 [egg:core] dump config after ready, 6ms
+2020-02-17 16:24:15,155 INFO 33818 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:24:15,185 INFO 33818 [egg-multipart] stream mode enable
+2020-02-17 16:24:15,603 INFO 33818 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:24:15,606 INFO 33818 [egg-security] use csrf middleware
+2020-02-17 16:24:15,607 INFO 33818 [egg-security] use methodnoallow middleware
+2020-02-17 16:24:15,607 INFO 33818 [egg-security] use noopen middleware
+2020-02-17 16:24:15,608 INFO 33818 [egg-security] use nosniff middleware
+2020-02-17 16:24:15,609 INFO 33818 [egg-security] use xssProtection middleware
+2020-02-17 16:24:15,610 INFO 33818 [egg-security] use xframe middleware
+2020-02-17 16:24:15,610 INFO 33818 [egg-security] use dta middleware
+2020-02-17 16:24:15,610 INFO 33818 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:24:15,622 INFO 33818 [egg:core] dump config after load, 5ms
+2020-02-17 16:24:15,652 INFO 33818 [egg-watcher:application] watcher start success
+2020-02-17 16:24:15,698 INFO 33818 [egg:core] dump config after ready, 3ms
+2020-02-17 16:24:45,163 INFO 33970 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:24:45,189 INFO 33970 [egg-multipart] stream mode enable
+2020-02-17 16:24:45,466 INFO 33970 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:24:45,468 INFO 33970 [egg-security] use csrf middleware
+2020-02-17 16:24:45,469 INFO 33970 [egg-security] use methodnoallow middleware
+2020-02-17 16:24:45,469 INFO 33970 [egg-security] use noopen middleware
+2020-02-17 16:24:45,470 INFO 33970 [egg-security] use nosniff middleware
+2020-02-17 16:24:45,470 INFO 33970 [egg-security] use xssProtection middleware
+2020-02-17 16:24:45,470 INFO 33970 [egg-security] use xframe middleware
+2020-02-17 16:24:45,470 INFO 33970 [egg-security] use dta middleware
+2020-02-17 16:24:45,471 INFO 33970 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:24:45,480 INFO 33970 [egg:core] dump config after load, 5ms
+2020-02-17 16:24:45,524 INFO 33970 [egg-watcher:application] watcher start success
+2020-02-17 16:24:45,558 INFO 33970 [egg:core] dump config after ready, 6ms
+2020-02-17 16:27:29,280 INFO 34785 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:27:29,312 INFO 34785 [egg-multipart] stream mode enable
+2020-02-17 16:27:29,811 INFO 34785 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:27:29,814 INFO 34785 [egg-security] use csrf middleware
+2020-02-17 16:27:29,815 INFO 34785 [egg-security] use methodnoallow middleware
+2020-02-17 16:27:29,816 INFO 34785 [egg-security] use noopen middleware
+2020-02-17 16:27:29,817 INFO 34785 [egg-security] use nosniff middleware
+2020-02-17 16:27:29,818 INFO 34785 [egg-security] use xssProtection middleware
+2020-02-17 16:27:29,818 INFO 34785 [egg-security] use xframe middleware
+2020-02-17 16:27:29,819 INFO 34785 [egg-security] use dta middleware
+2020-02-17 16:27:29,819 INFO 34785 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:27:29,833 INFO 34785 [egg:core] dump config after load, 7ms
+2020-02-17 16:27:29,881 INFO 34785 [egg-watcher:application] watcher start success
+2020-02-17 16:27:29,909 INFO 34785 [egg:core] dump config after ready, 4ms
+2020-02-17 16:28:59,784 INFO 35224 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:28:59,817 INFO 35224 [egg-multipart] stream mode enable
+2020-02-17 16:29:00,129 INFO 35224 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:29:00,131 INFO 35224 [egg-security] use csrf middleware
+2020-02-17 16:29:00,132 INFO 35224 [egg-security] use methodnoallow middleware
+2020-02-17 16:29:00,132 INFO 35224 [egg-security] use noopen middleware
+2020-02-17 16:29:00,133 INFO 35224 [egg-security] use nosniff middleware
+2020-02-17 16:29:00,134 INFO 35224 [egg-security] use xssProtection middleware
+2020-02-17 16:29:00,134 INFO 35224 [egg-security] use xframe middleware
+2020-02-17 16:29:00,134 INFO 35224 [egg-security] use dta middleware
+2020-02-17 16:29:00,134 INFO 35224 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:29:00,151 INFO 35224 [egg:core] dump config after load, 6ms
+2020-02-17 16:29:00,201 INFO 35224 [egg-watcher:application] watcher start success
+2020-02-17 16:29:00,232 INFO 35224 [egg:core] dump config after ready, 4ms
+2020-02-17 16:29:04,660 INFO 35258 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:29:04,686 INFO 35258 [egg-multipart] stream mode enable
+2020-02-17 16:29:04,965 INFO 35258 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:29:04,967 INFO 35258 [egg-security] use csrf middleware
+2020-02-17 16:29:04,967 INFO 35258 [egg-security] use methodnoallow middleware
+2020-02-17 16:29:04,968 INFO 35258 [egg-security] use noopen middleware
+2020-02-17 16:29:04,968 INFO 35258 [egg-security] use nosniff middleware
+2020-02-17 16:29:04,968 INFO 35258 [egg-security] use xssProtection middleware
+2020-02-17 16:29:04,969 INFO 35258 [egg-security] use xframe middleware
+2020-02-17 16:29:04,969 INFO 35258 [egg-security] use dta middleware
+2020-02-17 16:29:04,969 INFO 35258 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:29:04,980 INFO 35258 [egg:core] dump config after load, 6ms
+2020-02-17 16:29:05,011 INFO 35258 [egg-watcher:application] watcher start success
+2020-02-17 16:29:05,060 INFO 35258 [egg:core] dump config after ready, 4ms
+2020-02-17 16:29:09,312 INFO 35285 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:29:09,352 INFO 35285 [egg-multipart] stream mode enable
+2020-02-17 16:29:09,659 INFO 35285 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:29:09,661 INFO 35285 [egg-security] use csrf middleware
+2020-02-17 16:29:09,661 INFO 35285 [egg-security] use methodnoallow middleware
+2020-02-17 16:29:09,662 INFO 35285 [egg-security] use noopen middleware
+2020-02-17 16:29:09,662 INFO 35285 [egg-security] use nosniff middleware
+2020-02-17 16:29:09,662 INFO 35285 [egg-security] use xssProtection middleware
+2020-02-17 16:29:09,663 INFO 35285 [egg-security] use xframe middleware
+2020-02-17 16:29:09,663 INFO 35285 [egg-security] use dta middleware
+2020-02-17 16:29:09,663 INFO 35285 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:29:09,672 INFO 35285 [egg:core] dump config after load, 5ms
+2020-02-17 16:29:09,703 INFO 35285 [egg-watcher:application] watcher start success
+2020-02-17 16:29:09,744 INFO 35285 [egg:core] dump config after ready, 5ms
+2020-02-17 16:29:30,036 INFO 35391 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:29:30,065 INFO 35391 [egg-multipart] stream mode enable
+2020-02-17 16:29:30,476 INFO 35391 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:29:30,479 INFO 35391 [egg-security] use csrf middleware
+2020-02-17 16:29:30,479 INFO 35391 [egg-security] use methodnoallow middleware
+2020-02-17 16:29:30,479 INFO 35391 [egg-security] use noopen middleware
+2020-02-17 16:29:30,480 INFO 35391 [egg-security] use nosniff middleware
+2020-02-17 16:29:30,480 INFO 35391 [egg-security] use xssProtection middleware
+2020-02-17 16:29:30,480 INFO 35391 [egg-security] use xframe middleware
+2020-02-17 16:29:30,480 INFO 35391 [egg-security] use dta middleware
+2020-02-17 16:29:30,480 INFO 35391 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:29:30,491 INFO 35391 [egg:core] dump config after load, 5ms
+2020-02-17 16:29:30,537 INFO 35391 [egg-watcher:application] watcher start success
+2020-02-17 16:29:30,570 INFO 35391 [egg:core] dump config after ready, 4ms
+2020-02-17 16:30:24,189 INFO 35651 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:30:24,222 INFO 35651 [egg-multipart] stream mode enable
+2020-02-17 16:30:24,685 INFO 35651 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:30:24,689 INFO 35651 [egg-security] use csrf middleware
+2020-02-17 16:30:24,690 INFO 35651 [egg-security] use methodnoallow middleware
+2020-02-17 16:30:24,691 INFO 35651 [egg-security] use noopen middleware
+2020-02-17 16:30:24,692 INFO 35651 [egg-security] use nosniff middleware
+2020-02-17 16:30:24,693 INFO 35651 [egg-security] use xssProtection middleware
+2020-02-17 16:30:24,694 INFO 35651 [egg-security] use xframe middleware
+2020-02-17 16:30:24,694 INFO 35651 [egg-security] use dta middleware
+2020-02-17 16:30:24,694 INFO 35651 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:30:24,709 INFO 35651 [egg:core] dump config after load, 7ms
+2020-02-17 16:30:24,766 INFO 35651 [egg-watcher:application] watcher start success
+2020-02-17 16:30:24,804 INFO 35651 [egg:core] dump config after ready, 6ms
+2020-02-17 16:31:07,185 INFO 35859 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:31:07,215 INFO 35859 [egg-multipart] stream mode enable
+2020-02-17 16:31:07,648 INFO 35859 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:31:07,651 INFO 35859 [egg-security] use csrf middleware
+2020-02-17 16:31:07,653 INFO 35859 [egg-security] use methodnoallow middleware
+2020-02-17 16:31:07,654 INFO 35859 [egg-security] use noopen middleware
+2020-02-17 16:31:07,655 INFO 35859 [egg-security] use nosniff middleware
+2020-02-17 16:31:07,655 INFO 35859 [egg-security] use xssProtection middleware
+2020-02-17 16:31:07,656 INFO 35859 [egg-security] use xframe middleware
+2020-02-17 16:31:07,656 INFO 35859 [egg-security] use dta middleware
+2020-02-17 16:31:07,656 INFO 35859 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:31:07,670 INFO 35859 [egg:core] dump config after load, 8ms
+2020-02-17 16:31:07,705 INFO 35859 [egg-watcher:application] watcher start success
+2020-02-17 16:31:07,762 INFO 35859 [egg:core] dump config after ready, 5ms
+2020-02-17 16:31:35,858 INFO 36009 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:31:35,887 INFO 36009 [egg-multipart] stream mode enable
+2020-02-17 16:31:36,323 INFO 36009 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:31:36,326 INFO 36009 [egg-security] use csrf middleware
+2020-02-17 16:31:36,327 INFO 36009 [egg-security] use methodnoallow middleware
+2020-02-17 16:31:36,327 INFO 36009 [egg-security] use noopen middleware
+2020-02-17 16:31:36,328 INFO 36009 [egg-security] use nosniff middleware
+2020-02-17 16:31:36,329 INFO 36009 [egg-security] use xssProtection middleware
+2020-02-17 16:31:36,329 INFO 36009 [egg-security] use xframe middleware
+2020-02-17 16:31:36,330 INFO 36009 [egg-security] use dta middleware
+2020-02-17 16:31:36,330 INFO 36009 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:31:36,341 INFO 36009 [egg:core] dump config after load, 5ms
+2020-02-17 16:31:36,370 INFO 36009 [egg-watcher:application] watcher start success
+2020-02-17 16:31:36,416 INFO 36009 [egg:core] dump config after ready, 4ms
+2020-02-17 16:32:36,630 INFO 36311 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:32:36,664 INFO 36311 [egg-multipart] stream mode enable
+2020-02-17 16:32:37,135 INFO 36311 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:32:37,138 INFO 36311 [egg-security] use csrf middleware
+2020-02-17 16:32:37,139 INFO 36311 [egg-security] use methodnoallow middleware
+2020-02-17 16:32:37,139 INFO 36311 [egg-security] use noopen middleware
+2020-02-17 16:32:37,140 INFO 36311 [egg-security] use nosniff middleware
+2020-02-17 16:32:37,141 INFO 36311 [egg-security] use xssProtection middleware
+2020-02-17 16:32:37,142 INFO 36311 [egg-security] use xframe middleware
+2020-02-17 16:32:37,142 INFO 36311 [egg-security] use dta middleware
+2020-02-17 16:32:37,142 INFO 36311 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:32:37,154 INFO 36311 [egg:core] dump config after load, 6ms
+2020-02-17 16:32:37,183 INFO 36311 [egg-watcher:application] watcher start success
+2020-02-17 16:32:37,231 INFO 36311 [egg:core] dump config after ready, 4ms
+2020-02-17 16:33:32,954 INFO 36591 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:33:32,983 INFO 36591 [egg-multipart] stream mode enable
+2020-02-17 16:33:33,416 INFO 36591 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:33:33,419 INFO 36591 [egg-security] use csrf middleware
+2020-02-17 16:33:33,420 INFO 36591 [egg-security] use methodnoallow middleware
+2020-02-17 16:33:33,421 INFO 36591 [egg-security] use noopen middleware
+2020-02-17 16:33:33,422 INFO 36591 [egg-security] use nosniff middleware
+2020-02-17 16:33:33,422 INFO 36591 [egg-security] use xssProtection middleware
+2020-02-17 16:33:33,423 INFO 36591 [egg-security] use xframe middleware
+2020-02-17 16:33:33,423 INFO 36591 [egg-security] use dta middleware
+2020-02-17 16:33:33,423 INFO 36591 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:33:33,435 INFO 36591 [egg:core] dump config after load, 6ms
+2020-02-17 16:33:33,466 INFO 36591 [egg-watcher:application] watcher start success
+2020-02-17 16:33:33,513 INFO 36591 [egg:core] dump config after ready, 4ms
+2020-02-17 16:33:37,376 INFO 36618 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:33:37,401 INFO 36618 [egg-multipart] stream mode enable
+2020-02-17 16:33:37,659 INFO 36618 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:33:37,661 INFO 36618 [egg-security] use csrf middleware
+2020-02-17 16:33:37,662 INFO 36618 [egg-security] use methodnoallow middleware
+2020-02-17 16:33:37,662 INFO 36618 [egg-security] use noopen middleware
+2020-02-17 16:33:37,662 INFO 36618 [egg-security] use nosniff middleware
+2020-02-17 16:33:37,663 INFO 36618 [egg-security] use xssProtection middleware
+2020-02-17 16:33:37,663 INFO 36618 [egg-security] use xframe middleware
+2020-02-17 16:33:37,663 INFO 36618 [egg-security] use dta middleware
+2020-02-17 16:33:37,663 INFO 36618 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:33:37,675 INFO 36618 [egg:core] dump config after load, 6ms
+2020-02-17 16:33:37,703 INFO 36618 [egg-watcher:application] watcher start success
+2020-02-17 16:33:37,745 INFO 36618 [egg:core] dump config after ready, 5ms
+2020-02-17 16:34:09,553 INFO 36773 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:34:09,585 INFO 36773 [egg-multipart] stream mode enable
+2020-02-17 16:34:10,016 INFO 36773 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:34:10,018 INFO 36773 [egg-security] use csrf middleware
+2020-02-17 16:34:10,019 INFO 36773 [egg-security] use methodnoallow middleware
+2020-02-17 16:34:10,020 INFO 36773 [egg-security] use noopen middleware
+2020-02-17 16:34:10,021 INFO 36773 [egg-security] use nosniff middleware
+2020-02-17 16:34:10,022 INFO 36773 [egg-security] use xssProtection middleware
+2020-02-17 16:34:10,022 INFO 36773 [egg-security] use xframe middleware
+2020-02-17 16:34:10,023 INFO 36773 [egg-security] use dta middleware
+2020-02-17 16:34:10,023 INFO 36773 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:34:10,036 INFO 36773 [egg:core] dump config after load, 8ms
+2020-02-17 16:34:10,065 INFO 36773 [egg-watcher:application] watcher start success
+2020-02-17 16:34:10,110 INFO 36773 [egg:core] dump config after ready, 4ms
+2020-02-17 16:34:19,322 INFO 36828 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:34:19,348 INFO 36828 [egg-multipart] stream mode enable
+2020-02-17 16:34:19,667 INFO 36828 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:34:19,671 INFO 36828 [egg-security] use csrf middleware
+2020-02-17 16:34:19,673 INFO 36828 [egg-security] use methodnoallow middleware
+2020-02-17 16:34:19,674 INFO 36828 [egg-security] use noopen middleware
+2020-02-17 16:34:19,674 INFO 36828 [egg-security] use nosniff middleware
+2020-02-17 16:34:19,675 INFO 36828 [egg-security] use xssProtection middleware
+2020-02-17 16:34:19,676 INFO 36828 [egg-security] use xframe middleware
+2020-02-17 16:34:19,676 INFO 36828 [egg-security] use dta middleware
+2020-02-17 16:34:19,676 INFO 36828 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:34:19,691 INFO 36828 [egg:core] dump config after load, 8ms
+2020-02-17 16:34:19,749 INFO 36828 [egg-watcher:application] watcher start success
+2020-02-17 16:34:19,785 INFO 36828 [egg:core] dump config after ready, 5ms
+2020-02-17 16:35:33,335 INFO 37208 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:35:33,367 INFO 37208 [egg-multipart] stream mode enable
+2020-02-17 16:35:33,681 INFO 37208 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:35:33,683 INFO 37208 [egg-security] use csrf middleware
+2020-02-17 16:35:33,684 INFO 37208 [egg-security] use methodnoallow middleware
+2020-02-17 16:35:33,684 INFO 37208 [egg-security] use noopen middleware
+2020-02-17 16:35:33,684 INFO 37208 [egg-security] use nosniff middleware
+2020-02-17 16:35:33,685 INFO 37208 [egg-security] use xssProtection middleware
+2020-02-17 16:35:33,685 INFO 37208 [egg-security] use xframe middleware
+2020-02-17 16:35:33,685 INFO 37208 [egg-security] use dta middleware
+2020-02-17 16:35:33,685 INFO 37208 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:35:33,695 INFO 37208 [egg:core] dump config after load, 6ms
+2020-02-17 16:35:33,733 INFO 37208 [egg-watcher:application] watcher start success
+2020-02-17 16:35:33,787 INFO 37208 [egg:core] dump config after ready, 6ms
+2020-02-17 16:36:00,338 INFO 37342 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:36:00,364 INFO 37342 [egg-multipart] stream mode enable
+2020-02-17 16:36:00,653 INFO 37342 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:36:00,655 INFO 37342 [egg-security] use csrf middleware
+2020-02-17 16:36:00,656 INFO 37342 [egg-security] use methodnoallow middleware
+2020-02-17 16:36:00,656 INFO 37342 [egg-security] use noopen middleware
+2020-02-17 16:36:00,656 INFO 37342 [egg-security] use nosniff middleware
+2020-02-17 16:36:00,657 INFO 37342 [egg-security] use xssProtection middleware
+2020-02-17 16:36:00,657 INFO 37342 [egg-security] use xframe middleware
+2020-02-17 16:36:00,657 INFO 37342 [egg-security] use dta middleware
+2020-02-17 16:36:00,657 INFO 37342 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:36:00,667 INFO 37342 [egg:core] dump config after load, 6ms
+2020-02-17 16:36:00,699 INFO 37342 [egg-watcher:application] watcher start success
+2020-02-17 16:36:00,746 INFO 37342 [egg:core] dump config after ready, 4ms
+2020-02-17 16:37:19,046 INFO 37716 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:37:19,073 INFO 37716 [egg-multipart] stream mode enable
+2020-02-17 16:37:19,364 INFO 37716 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:37:19,366 INFO 37716 [egg-security] use csrf middleware
+2020-02-17 16:37:19,367 INFO 37716 [egg-security] use methodnoallow middleware
+2020-02-17 16:37:19,367 INFO 37716 [egg-security] use noopen middleware
+2020-02-17 16:37:19,367 INFO 37716 [egg-security] use nosniff middleware
+2020-02-17 16:37:19,368 INFO 37716 [egg-security] use xssProtection middleware
+2020-02-17 16:37:19,368 INFO 37716 [egg-security] use xframe middleware
+2020-02-17 16:37:19,369 INFO 37716 [egg-security] use dta middleware
+2020-02-17 16:37:19,369 INFO 37716 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:37:19,379 INFO 37716 [egg:core] dump config after load, 5ms
+2020-02-17 16:37:19,412 INFO 37716 [egg-watcher:application] watcher start success
+2020-02-17 16:37:19,462 INFO 37716 [egg:core] dump config after ready, 6ms
+2020-02-17 16:37:21,925 INFO 37734 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:37:21,953 INFO 37734 [egg-multipart] stream mode enable
+2020-02-17 16:37:22,261 INFO 37734 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:37:22,265 INFO 37734 [egg-security] use csrf middleware
+2020-02-17 16:37:22,266 INFO 37734 [egg-security] use methodnoallow middleware
+2020-02-17 16:37:22,266 INFO 37734 [egg-security] use noopen middleware
+2020-02-17 16:37:22,267 INFO 37734 [egg-security] use nosniff middleware
+2020-02-17 16:37:22,268 INFO 37734 [egg-security] use xssProtection middleware
+2020-02-17 16:37:22,269 INFO 37734 [egg-security] use xframe middleware
+2020-02-17 16:37:22,269 INFO 37734 [egg-security] use dta middleware
+2020-02-17 16:37:22,269 INFO 37734 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:37:22,283 INFO 37734 [egg:core] dump config after load, 7ms
+2020-02-17 16:37:22,320 INFO 37734 [egg-watcher:application] watcher start success
+2020-02-17 16:37:22,386 INFO 37734 [egg:core] dump config after ready, 6ms
+2020-02-17 16:37:56,277 INFO 37894 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:37:56,308 INFO 37894 [egg-multipart] stream mode enable
+2020-02-17 16:37:56,736 INFO 37894 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:37:56,739 INFO 37894 [egg-security] use csrf middleware
+2020-02-17 16:37:56,740 INFO 37894 [egg-security] use methodnoallow middleware
+2020-02-17 16:37:56,740 INFO 37894 [egg-security] use noopen middleware
+2020-02-17 16:37:56,741 INFO 37894 [egg-security] use nosniff middleware
+2020-02-17 16:37:56,742 INFO 37894 [egg-security] use xssProtection middleware
+2020-02-17 16:37:56,743 INFO 37894 [egg-security] use xframe middleware
+2020-02-17 16:37:56,743 INFO 37894 [egg-security] use dta middleware
+2020-02-17 16:37:56,743 INFO 37894 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:37:56,754 INFO 37894 [egg:core] dump config after load, 5ms
+2020-02-17 16:37:56,783 INFO 37894 [egg-watcher:application] watcher start success
+2020-02-17 16:37:56,829 INFO 37894 [egg:core] dump config after ready, 5ms
+2020-02-17 16:37:59,717 INFO 37919 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:37:59,748 INFO 37919 [egg-multipart] stream mode enable
+2020-02-17 16:38:00,053 INFO 37919 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:38:00,055 INFO 37919 [egg-security] use csrf middleware
+2020-02-17 16:38:00,056 INFO 37919 [egg-security] use methodnoallow middleware
+2020-02-17 16:38:00,056 INFO 37919 [egg-security] use noopen middleware
+2020-02-17 16:38:00,057 INFO 37919 [egg-security] use nosniff middleware
+2020-02-17 16:38:00,057 INFO 37919 [egg-security] use xssProtection middleware
+2020-02-17 16:38:00,058 INFO 37919 [egg-security] use xframe middleware
+2020-02-17 16:38:00,058 INFO 37919 [egg-security] use dta middleware
+2020-02-17 16:38:00,058 INFO 37919 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:38:00,068 INFO 37919 [egg:core] dump config after load, 5ms
+2020-02-17 16:38:00,100 INFO 37919 [egg-watcher:application] watcher start success
+2020-02-17 16:38:00,146 INFO 37919 [egg:core] dump config after ready, 6ms
+2020-02-17 16:39:04,036 INFO 38230 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:39:04,069 INFO 38230 [egg-multipart] stream mode enable
+2020-02-17 16:39:04,531 INFO 38230 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:39:04,534 INFO 38230 [egg-security] use csrf middleware
+2020-02-17 16:39:04,535 INFO 38230 [egg-security] use methodnoallow middleware
+2020-02-17 16:39:04,536 INFO 38230 [egg-security] use noopen middleware
+2020-02-17 16:39:04,537 INFO 38230 [egg-security] use nosniff middleware
+2020-02-17 16:39:04,537 INFO 38230 [egg-security] use xssProtection middleware
+2020-02-17 16:39:04,538 INFO 38230 [egg-security] use xframe middleware
+2020-02-17 16:39:04,539 INFO 38230 [egg-security] use dta middleware
+2020-02-17 16:39:04,539 INFO 38230 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:39:04,551 INFO 38230 [egg:core] dump config after load, 6ms
+2020-02-17 16:39:04,584 INFO 38230 [egg-watcher:application] watcher start success
+2020-02-17 16:39:04,636 INFO 38230 [egg:core] dump config after ready, 4ms
+2020-02-17 16:39:15,704 INFO 38302 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:39:15,735 INFO 38302 [egg-multipart] stream mode enable
+2020-02-17 16:39:16,174 INFO 38302 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:39:16,176 INFO 38302 [egg-security] use csrf middleware
+2020-02-17 16:39:16,178 INFO 38302 [egg-security] use methodnoallow middleware
+2020-02-17 16:39:16,178 INFO 38302 [egg-security] use noopen middleware
+2020-02-17 16:39:16,179 INFO 38302 [egg-security] use nosniff middleware
+2020-02-17 16:39:16,180 INFO 38302 [egg-security] use xssProtection middleware
+2020-02-17 16:39:16,180 INFO 38302 [egg-security] use xframe middleware
+2020-02-17 16:39:16,181 INFO 38302 [egg-security] use dta middleware
+2020-02-17 16:39:16,181 INFO 38302 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:39:16,192 INFO 38302 [egg:core] dump config after load, 5ms
+2020-02-17 16:39:16,221 INFO 38302 [egg-watcher:application] watcher start success
+2020-02-17 16:39:16,268 INFO 38302 [egg:core] dump config after ready, 5ms
+2020-02-17 16:39:45,833 INFO 38448 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:39:45,868 INFO 38448 [egg-multipart] stream mode enable
+2020-02-17 16:39:46,318 INFO 38448 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:39:46,321 INFO 38448 [egg-security] use csrf middleware
+2020-02-17 16:39:46,322 INFO 38448 [egg-security] use methodnoallow middleware
+2020-02-17 16:39:46,323 INFO 38448 [egg-security] use noopen middleware
+2020-02-17 16:39:46,324 INFO 38448 [egg-security] use nosniff middleware
+2020-02-17 16:39:46,325 INFO 38448 [egg-security] use xssProtection middleware
+2020-02-17 16:39:46,326 INFO 38448 [egg-security] use xframe middleware
+2020-02-17 16:39:46,326 INFO 38448 [egg-security] use dta middleware
+2020-02-17 16:39:46,326 INFO 38448 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:39:46,339 INFO 38448 [egg:core] dump config after load, 6ms
+2020-02-17 16:39:46,371 INFO 38448 [egg-watcher:application] watcher start success
+2020-02-17 16:39:46,422 INFO 38448 [egg:core] dump config after ready, 4ms
+2020-02-17 16:40:06,316 INFO 38561 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:40:06,346 INFO 38561 [egg-multipart] stream mode enable
+2020-02-17 16:40:06,647 INFO 38561 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:40:06,650 INFO 38561 [egg-security] use csrf middleware
+2020-02-17 16:40:06,650 INFO 38561 [egg-security] use methodnoallow middleware
+2020-02-17 16:40:06,651 INFO 38561 [egg-security] use noopen middleware
+2020-02-17 16:40:06,651 INFO 38561 [egg-security] use nosniff middleware
+2020-02-17 16:40:06,652 INFO 38561 [egg-security] use xssProtection middleware
+2020-02-17 16:40:06,652 INFO 38561 [egg-security] use xframe middleware
+2020-02-17 16:40:06,652 INFO 38561 [egg-security] use dta middleware
+2020-02-17 16:40:06,652 INFO 38561 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:40:06,665 INFO 38561 [egg:core] dump config after load, 6ms
+2020-02-17 16:40:06,698 INFO 38561 [egg-watcher:application] watcher start success
+2020-02-17 16:40:06,745 INFO 38561 [egg:core] dump config after ready, 4ms
+2020-02-17 16:40:19,104 INFO 38625 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:40:19,139 INFO 38625 [egg-multipart] stream mode enable
+2020-02-17 16:40:19,556 INFO 38625 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:40:19,559 INFO 38625 [egg-security] use csrf middleware
+2020-02-17 16:40:19,560 INFO 38625 [egg-security] use methodnoallow middleware
+2020-02-17 16:40:19,561 INFO 38625 [egg-security] use noopen middleware
+2020-02-17 16:40:19,561 INFO 38625 [egg-security] use nosniff middleware
+2020-02-17 16:40:19,561 INFO 38625 [egg-security] use xssProtection middleware
+2020-02-17 16:40:19,562 INFO 38625 [egg-security] use xframe middleware
+2020-02-17 16:40:19,562 INFO 38625 [egg-security] use dta middleware
+2020-02-17 16:40:19,562 INFO 38625 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:40:19,574 INFO 38625 [egg:core] dump config after load, 7ms
+2020-02-17 16:40:19,608 INFO 38625 [egg-watcher:application] watcher start success
+2020-02-17 16:40:19,650 INFO 38625 [egg:core] dump config after ready, 4ms
+2020-02-17 16:41:10,170 INFO 38868 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:41:10,212 INFO 38868 [egg-multipart] stream mode enable
+2020-02-17 16:41:10,586 INFO 38868 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:41:10,588 INFO 38868 [egg-security] use csrf middleware
+2020-02-17 16:41:10,589 INFO 38868 [egg-security] use methodnoallow middleware
+2020-02-17 16:41:10,589 INFO 38868 [egg-security] use noopen middleware
+2020-02-17 16:41:10,590 INFO 38868 [egg-security] use nosniff middleware
+2020-02-17 16:41:10,590 INFO 38868 [egg-security] use xssProtection middleware
+2020-02-17 16:41:10,590 INFO 38868 [egg-security] use xframe middleware
+2020-02-17 16:41:10,590 INFO 38868 [egg-security] use dta middleware
+2020-02-17 16:41:10,590 INFO 38868 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:41:10,601 INFO 38868 [egg:core] dump config after load, 6ms
+2020-02-17 16:41:10,633 INFO 38868 [egg-watcher:application] watcher start success
+2020-02-17 16:41:10,676 INFO 38868 [egg:core] dump config after ready, 4ms
+2020-02-17 16:47:44,310 INFO 40804 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 16:47:44,337 INFO 40804 [egg-multipart] stream mode enable
+2020-02-17 16:47:44,633 INFO 40804 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 16:47:44,635 INFO 40804 [egg-security] use csrf middleware
+2020-02-17 16:47:44,636 INFO 40804 [egg-security] use methodnoallow middleware
+2020-02-17 16:47:44,637 INFO 40804 [egg-security] use noopen middleware
+2020-02-17 16:47:44,638 INFO 40804 [egg-security] use nosniff middleware
+2020-02-17 16:47:44,638 INFO 40804 [egg-security] use xssProtection middleware
+2020-02-17 16:47:44,639 INFO 40804 [egg-security] use xframe middleware
+2020-02-17 16:47:44,640 INFO 40804 [egg-security] use dta middleware
+2020-02-17 16:47:44,640 INFO 40804 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 16:47:44,650 INFO 40804 [egg:core] dump config after load, 5ms
+2020-02-17 16:47:44,693 INFO 40804 [egg-watcher:application] watcher start success
+2020-02-17 16:47:44,722 INFO 40804 [egg:core] dump config after ready, 5ms
+2020-02-17 17:02:01,348 INFO 44716 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:02:01,375 INFO 44716 [egg-multipart] stream mode enable
+2020-02-17 17:02:01,639 INFO 44716 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:02:01,643 INFO 44716 [egg-security] use csrf middleware
+2020-02-17 17:02:01,643 INFO 44716 [egg-security] use methodnoallow middleware
+2020-02-17 17:02:01,644 INFO 44716 [egg-security] use noopen middleware
+2020-02-17 17:02:01,644 INFO 44716 [egg-security] use nosniff middleware
+2020-02-17 17:02:01,644 INFO 44716 [egg-security] use xssProtection middleware
+2020-02-17 17:02:01,645 INFO 44716 [egg-security] use xframe middleware
+2020-02-17 17:02:01,645 INFO 44716 [egg-security] use dta middleware
+2020-02-17 17:02:01,645 INFO 44716 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 17:02:01,656 INFO 44716 [egg:core] dump config after load, 6ms
+2020-02-17 17:02:01,704 INFO 44716 [egg-watcher:application] watcher start success
+2020-02-17 17:02:01,735 INFO 44716 [egg:core] dump config after ready, 5ms
+2020-02-17 17:03:15,066 INFO 45056 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:03:15,096 INFO 45056 [egg-multipart] stream mode enable
+2020-02-17 17:03:15,524 INFO 45056 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:03:15,527 INFO 45056 [egg-security] use csrf middleware
+2020-02-17 17:03:15,528 INFO 45056 [egg-security] use methodnoallow middleware
+2020-02-17 17:03:15,528 INFO 45056 [egg-security] use noopen middleware
+2020-02-17 17:03:15,529 INFO 45056 [egg-security] use nosniff middleware
+2020-02-17 17:03:15,530 INFO 45056 [egg-security] use xssProtection middleware
+2020-02-17 17:03:15,530 INFO 45056 [egg-security] use xframe middleware
+2020-02-17 17:03:15,531 INFO 45056 [egg-security] use dta middleware
+2020-02-17 17:03:15,531 INFO 45056 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 17:03:15,542 INFO 45056 [egg:core] dump config after load, 5ms
+2020-02-17 17:03:15,571 INFO 45056 [egg-watcher:application] watcher start success
+2020-02-17 17:03:15,617 INFO 45056 [egg:core] dump config after ready, 4ms
+2020-02-17 17:05:40,068 INFO 45866 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:05:40,092 INFO 45866 [egg-multipart] stream mode enable
+2020-02-17 17:05:40,391 INFO 45866 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:05:40,394 INFO 45866 [egg-security] use csrf middleware
+2020-02-17 17:05:40,396 INFO 45866 [egg-security] use methodnoallow middleware
+2020-02-17 17:05:40,396 INFO 45866 [egg-security] use noopen middleware
+2020-02-17 17:05:40,397 INFO 45866 [egg-security] use nosniff middleware
+2020-02-17 17:05:40,398 INFO 45866 [egg-security] use xssProtection middleware
+2020-02-17 17:05:40,399 INFO 45866 [egg-security] use xframe middleware
+2020-02-17 17:05:40,400 INFO 45866 [egg-security] use dta middleware
+2020-02-17 17:05:40,400 INFO 45866 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 17:05:40,411 INFO 45866 [egg:core] dump config after load, 5ms
+2020-02-17 17:05:40,453 INFO 45866 [egg-watcher:application] watcher start success
+2020-02-17 17:05:40,482 INFO 45866 [egg:core] dump config after ready, 4ms
+2020-02-17 17:07:38,538 INFO 46406 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:07:38,566 INFO 46406 [egg-multipart] stream mode enable
+2020-02-17 17:07:39,028 INFO 46406 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:07:39,031 INFO 46406 [egg-security] use csrf middleware
+2020-02-17 17:07:39,031 INFO 46406 [egg-security] use methodnoallow middleware
+2020-02-17 17:07:39,032 INFO 46406 [egg-security] use noopen middleware
+2020-02-17 17:07:39,033 INFO 46406 [egg-security] use nosniff middleware
+2020-02-17 17:07:39,034 INFO 46406 [egg-security] use xssProtection middleware
+2020-02-17 17:07:39,034 INFO 46406 [egg-security] use xframe middleware
+2020-02-17 17:07:39,035 INFO 46406 [egg-security] use dta middleware
+2020-02-17 17:07:39,035 INFO 46406 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 17:07:39,047 INFO 46406 [egg:core] dump config after load, 5ms
+2020-02-17 17:07:39,095 INFO 46406 [egg-watcher:application] watcher start success
+2020-02-17 17:07:39,126 INFO 46406 [egg:core] dump config after ready, 4ms
+2020-02-17 17:07:40,036 INFO 46429 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:07:40,061 INFO 46429 [egg-multipart] stream mode enable
+2020-02-17 17:07:40,379 INFO 46429 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:07:40,381 INFO 46429 [egg-security] use csrf middleware
+2020-02-17 17:07:40,382 INFO 46429 [egg-security] use methodnoallow middleware
+2020-02-17 17:07:40,382 INFO 46429 [egg-security] use noopen middleware
+2020-02-17 17:07:40,383 INFO 46429 [egg-security] use nosniff middleware
+2020-02-17 17:07:40,383 INFO 46429 [egg-security] use xssProtection middleware
+2020-02-17 17:07:40,384 INFO 46429 [egg-security] use xframe middleware
+2020-02-17 17:07:40,384 INFO 46429 [egg-security] use dta middleware
+2020-02-17 17:07:40,384 INFO 46429 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 17:07:40,394 INFO 46429 [egg:core] dump config after load, 5ms
+2020-02-17 17:07:40,426 INFO 46429 [egg-watcher:application] watcher start success
+2020-02-17 17:07:40,470 INFO 46429 [egg:core] dump config after ready, 4ms
+2020-02-17 17:07:46,297 INFO 46462 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:07:46,326 INFO 46462 [egg-multipart] stream mode enable
+2020-02-17 17:07:46,603 INFO 46462 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:07:46,605 INFO 46462 [egg-security] use csrf middleware
+2020-02-17 17:07:46,606 INFO 46462 [egg-security] use methodnoallow middleware
+2020-02-17 17:07:46,606 INFO 46462 [egg-security] use noopen middleware
+2020-02-17 17:07:46,607 INFO 46462 [egg-security] use nosniff middleware
+2020-02-17 17:07:46,607 INFO 46462 [egg-security] use xssProtection middleware
+2020-02-17 17:07:46,607 INFO 46462 [egg-security] use xframe middleware
+2020-02-17 17:07:46,608 INFO 46462 [egg-security] use dta middleware
+2020-02-17 17:07:46,608 INFO 46462 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 17:07:46,619 INFO 46462 [egg:core] dump config after load, 6ms
+2020-02-17 17:07:46,660 INFO 46462 [egg-watcher:application] watcher start success
+2020-02-17 17:07:46,689 INFO 46462 [egg:core] dump config after ready, 3ms
+2020-02-17 17:07:50,011 INFO 46489 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:07:50,039 INFO 46489 [egg-multipart] stream mode enable
+2020-02-17 17:07:50,406 INFO 46489 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:07:50,411 INFO 46489 [egg-security] use csrf middleware
+2020-02-17 17:07:50,412 INFO 46489 [egg-security] use methodnoallow middleware
+2020-02-17 17:07:50,413 INFO 46489 [egg-security] use noopen middleware
+2020-02-17 17:07:50,414 INFO 46489 [egg-security] use nosniff middleware
+2020-02-17 17:07:50,415 INFO 46489 [egg-security] use xssProtection middleware
+2020-02-17 17:07:50,416 INFO 46489 [egg-security] use xframe middleware
+2020-02-17 17:07:50,416 INFO 46489 [egg-security] use dta middleware
+2020-02-17 17:07:50,416 INFO 46489 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 17:07:50,432 INFO 46489 [egg:core] dump config after load, 9ms
+2020-02-17 17:07:50,473 INFO 46489 [egg-watcher:application] watcher start success
+2020-02-17 17:07:50,520 INFO 46489 [egg:core] dump config after ready, 5ms
+2020-02-17 17:19:49,802 INFO 49565 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:19:49,836 INFO 49565 [egg-multipart] stream mode enable
+2020-02-17 17:19:50,269 INFO 49565 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:19:50,271 INFO 49565 [egg-security] use csrf middleware
+2020-02-17 17:19:50,273 INFO 49565 [egg-security] use methodnoallow middleware
+2020-02-17 17:19:50,274 INFO 49565 [egg-security] use noopen middleware
+2020-02-17 17:19:50,274 INFO 49565 [egg-security] use nosniff middleware
+2020-02-17 17:19:50,275 INFO 49565 [egg-security] use xssProtection middleware
+2020-02-17 17:19:50,276 INFO 49565 [egg-security] use xframe middleware
+2020-02-17 17:19:50,277 INFO 49565 [egg-security] use dta middleware
+2020-02-17 17:19:50,277 INFO 49565 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 17:19:50,289 INFO 49565 [egg:core] dump config after load, 6ms
+2020-02-17 17:19:50,322 INFO 49565 [egg-watcher:application] watcher start success
+2020-02-17 17:19:50,371 INFO 49565 [egg:core] dump config after ready, 3ms
+2020-02-17 17:20:38,576 INFO 49809 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:20:38,608 INFO 49809 [egg-multipart] stream mode enable
+2020-02-17 17:20:39,047 INFO 49809 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:20:39,050 INFO 49809 [egg-security] use csrf middleware
+2020-02-17 17:20:39,051 INFO 49809 [egg-security] use methodnoallow middleware
+2020-02-17 17:20:39,051 INFO 49809 [egg-security] use noopen middleware
+2020-02-17 17:20:39,052 INFO 49809 [egg-security] use nosniff middleware
+2020-02-17 17:20:39,053 INFO 49809 [egg-security] use xssProtection middleware
+2020-02-17 17:20:39,054 INFO 49809 [egg-security] use xframe middleware
+2020-02-17 17:20:39,054 INFO 49809 [egg-security] use dta middleware
+2020-02-17 17:20:39,054 INFO 49809 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 17:20:39,068 INFO 49809 [egg:core] dump config after load, 6ms
+2020-02-17 17:20:39,099 INFO 49809 [egg-watcher:application] watcher start success
+2020-02-17 17:20:39,153 INFO 49809 [egg:core] dump config after ready, 3ms
+2020-02-17 17:20:42,272 INFO 49849 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:20:42,317 INFO 49849 [egg-multipart] stream mode enable
+2020-02-17 17:20:42,724 INFO 49849 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:20:42,727 INFO 49849 [egg-security] use csrf middleware
+2020-02-17 17:20:42,728 INFO 49849 [egg-security] use methodnoallow middleware
+2020-02-17 17:20:42,728 INFO 49849 [egg-security] use noopen middleware
+2020-02-17 17:20:42,729 INFO 49849 [egg-security] use nosniff middleware
+2020-02-17 17:20:42,729 INFO 49849 [egg-security] use xssProtection middleware
+2020-02-17 17:20:42,730 INFO 49849 [egg-security] use xframe middleware
+2020-02-17 17:20:42,730 INFO 49849 [egg-security] use dta middleware
+2020-02-17 17:20:42,730 INFO 49849 [egg-security] compose 7 middlewares into one security middleware
+2020-02-17 17:20:42,749 INFO 49849 [egg:core] dump config after load, 14ms
+2020-02-17 17:20:42,793 INFO 49849 [egg-watcher:application] watcher start success
+2020-02-17 17:20:42,851 INFO 49849 [egg:core] dump config after ready, 5ms
+2020-02-17 17:25:45,628 INFO 51690 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:25:45,655 INFO 51690 [egg-multipart] stream mode enable
+2020-02-17 17:25:45,946 INFO 51690 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:25:45,948 INFO 51690 [egg-security] use methodnoallow middleware
+2020-02-17 17:25:45,949 INFO 51690 [egg-security] use noopen middleware
+2020-02-17 17:25:45,950 INFO 51690 [egg-security] use nosniff middleware
+2020-02-17 17:25:45,951 INFO 51690 [egg-security] use xssProtection middleware
+2020-02-17 17:25:45,951 INFO 51690 [egg-security] use xframe middleware
+2020-02-17 17:25:45,952 INFO 51690 [egg-security] use dta middleware
+2020-02-17 17:25:45,952 INFO 51690 [egg-security] compose 6 middlewares into one security middleware
+2020-02-17 17:25:45,965 INFO 51690 [egg:core] dump config after load, 5ms
+2020-02-17 17:25:46,009 INFO 51690 [egg-watcher:application] watcher start success
+2020-02-17 17:25:46,043 INFO 51690 [egg:core] dump config after ready, 6ms
+2020-02-17 17:26:35,007 INFO 51924 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:26:35,036 INFO 51924 [egg-multipart] stream mode enable
+2020-02-17 17:26:35,477 INFO 51924 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:26:35,479 INFO 51924 [egg-security] use methodnoallow middleware
+2020-02-17 17:26:35,480 INFO 51924 [egg-security] use noopen middleware
+2020-02-17 17:26:35,481 INFO 51924 [egg-security] use nosniff middleware
+2020-02-17 17:26:35,482 INFO 51924 [egg-security] use xssProtection middleware
+2020-02-17 17:26:35,482 INFO 51924 [egg-security] use xframe middleware
+2020-02-17 17:26:35,483 INFO 51924 [egg-security] use dta middleware
+2020-02-17 17:26:35,483 INFO 51924 [egg-security] compose 6 middlewares into one security middleware
+2020-02-17 17:26:35,495 INFO 51924 [egg:core] dump config after load, 5ms
+2020-02-17 17:26:35,541 INFO 51924 [egg-watcher:application] watcher start success
+2020-02-17 17:26:35,567 INFO 51924 [egg:core] dump config after ready, 3ms
+2020-02-17 17:28:20,642 INFO 52452 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:28:20,676 INFO 52452 [egg-multipart] stream mode enable
+2020-02-17 17:28:21,057 INFO 52452 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:28:21,060 INFO 52452 [egg-security] use methodnoallow middleware
+2020-02-17 17:28:21,061 INFO 52452 [egg-security] use noopen middleware
+2020-02-17 17:28:21,062 INFO 52452 [egg-security] use nosniff middleware
+2020-02-17 17:28:21,062 INFO 52452 [egg-security] use xssProtection middleware
+2020-02-17 17:28:21,063 INFO 52452 [egg-security] use xframe middleware
+2020-02-17 17:28:21,063 INFO 52452 [egg-security] use dta middleware
+2020-02-17 17:28:21,063 INFO 52452 [egg-security] compose 6 middlewares into one security middleware
+2020-02-17 17:28:21,080 INFO 52452 [egg:core] dump config after load, 10ms
+2020-02-17 17:28:21,122 INFO 52452 [egg-watcher:application] watcher start success
+2020-02-17 17:28:21,178 INFO 52452 [egg:core] dump config after ready, 6ms
+2020-02-17 17:52:29,131 INFO 59065 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:52:29,162 INFO 59065 [egg-multipart] stream mode enable
+2020-02-17 17:52:29,633 INFO 59065 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:52:29,635 INFO 59065 [egg-security] use methodnoallow middleware
+2020-02-17 17:52:29,636 INFO 59065 [egg-security] use noopen middleware
+2020-02-17 17:52:29,637 INFO 59065 [egg-security] use nosniff middleware
+2020-02-17 17:52:29,637 INFO 59065 [egg-security] use xssProtection middleware
+2020-02-17 17:52:29,638 INFO 59065 [egg-security] use xframe middleware
+2020-02-17 17:52:29,639 INFO 59065 [egg-security] use dta middleware
+2020-02-17 17:52:29,639 INFO 59065 [egg-security] compose 6 middlewares into one security middleware
+2020-02-17 17:52:29,650 INFO 59065 [egg:core] dump config after load, 5ms
+2020-02-17 17:52:29,696 INFO 59065 [egg-watcher:application] watcher start success
+2020-02-17 17:52:29,726 INFO 59065 [egg:core] dump config after ready, 4ms
+2020-02-17 17:57:54,151 INFO 60578 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-17 17:57:54,180 INFO 60578 [egg-multipart] stream mode enable
+2020-02-17 17:57:54,586 INFO 60578 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-17 17:57:54,589 INFO 60578 [egg-security] use methodnoallow middleware
+2020-02-17 17:57:54,590 INFO 60578 [egg-security] use noopen middleware
+2020-02-17 17:57:54,590 INFO 60578 [egg-security] use nosniff middleware
+2020-02-17 17:57:54,591 INFO 60578 [egg-security] use xssProtection middleware
+2020-02-17 17:57:54,592 INFO 60578 [egg-security] use xframe middleware
+2020-02-17 17:57:54,592 INFO 60578 [egg-security] use dta middleware
+2020-02-17 17:57:54,592 INFO 60578 [egg-security] compose 6 middlewares into one security middleware
+2020-02-17 17:57:54,605 INFO 60578 [egg:core] dump config after load, 6ms
+2020-02-17 17:57:54,632 INFO 60578 [egg-watcher:application] watcher start success
+2020-02-17 17:57:54,675 INFO 60578 [egg:core] dump config after ready, 4ms
+2020-02-17 18:07:41,695 WARN 60578 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-02-18 08:56:13,791 WARN 60578 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-02-18 08:56:13,797 WARN 60578 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-02-18 09:14:04,723 INFO 66156 [egg:logger] init all loggers with options: {"dir":"/Users/baiwang/Desktop/shoot/schoolbi_api/logs/schoolBI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"schoolBI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-02-18 09:14:04,749 INFO 66156 [egg-multipart] stream mode enable
+2020-02-18 09:14:05,029 INFO 66156 [egg-static] starting static serve /public/ -> /Users/baiwang/Desktop/shoot/schoolbi_api/app/public
+2020-02-18 09:14:05,031 INFO 66156 [egg-security] use methodnoallow middleware
+2020-02-18 09:14:05,032 INFO 66156 [egg-security] use noopen middleware
+2020-02-18 09:14:05,033 INFO 66156 [egg-security] use nosniff middleware
+2020-02-18 09:14:05,034 INFO 66156 [egg-security] use xssProtection middleware
+2020-02-18 09:14:05,034 INFO 66156 [egg-security] use xframe middleware
+2020-02-18 09:14:05,035 INFO 66156 [egg-security] use dta middleware
+2020-02-18 09:14:05,035 INFO 66156 [egg-security] compose 6 middlewares into one security middleware
+2020-02-18 09:14:05,045 INFO 66156 [egg:core] dump config after load, 4ms
+2020-02-18 09:14:05,085 INFO 66156 [egg-watcher:application] watcher start success
+2020-02-18 09:14:05,111 INFO 66156 [egg:core] dump config after ready, 4ms
